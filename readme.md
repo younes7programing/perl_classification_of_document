@@ -7,7 +7,9 @@ et calculer la distance entre chaque dic (vect de mots) et fichier text(vecteur 
  
  poue executer le programme ;
  1-extract classification.rar,document.rar,document
+ 
  2-change the path of your folder in this line 
+ 
                      my $RepBase   = 'D:\WorkSpace\eclips\Perl_KNN/document';
                      my $RepResult = 'D:\WorkSpace\eclips\Perl_KNN/classification';
                      my $RepDico   = 'D:\WorkSpace\eclips\Perl_KNN\dico';
@@ -17,3 +19,7 @@ et calculer la distance entre chaque dic (vect de mots) et fichier text(vecteur 
                      my $RepBase   = 'D:\WorkSpace\eclips\Name_of your folder/document';
                      my $RepResult = 'D:\WorkSpace\eclips\Name_of your folder/classification';
                      my $RepDico   = 'D:\WorkSpace\eclips\Name_of your folder\dico';
+                     
+                     
+                     
+                     Enjoy!
