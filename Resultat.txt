@@ -1,0 +1,3345 @@
+
+
+=============================================
+		Traitement du fichier a1.txt :
+
+=============================================
+Le mot 'lymphatique' est present 1 fois
+Le mot 'intestin' est present 1 fois
+Le mot 'CONFIGURATION' est present 2 fois
+Le mot 'lombaire' est present 1 fois
+Le mot 'circonscrite' est present 1 fois
+Le mot 'IE' est present 4 fois
+Le mot 'réuni' est present 1 fois
+Le mot 'ORGANES' est present 1 fois
+Le mot 'suspense' est present 1 fois
+Le mot 'seul' est present 1 fois
+Le mot 'colonne' est present 2 fois
+Le mot 'raison' est present 1 fois
+Le mot 'source' est present 1 fois
+Le mot 'épaisseur' est present 1 fois
+Le mot 'exocrine' est present 4 fois
+Le mot 'endocrine' est present 4 fois
+Le mot 'spléniques' est present 1 fois
+Le mot '' est present 764 fois
+Le mot 'conjonctive' est present 1 fois
+Le mot 'postérieure' est present 3 fois
+Le mot 'grêle' est present 1 fois
+Le mot 'duodéno-jéjunal' est present 1 fois
+Le mot 'mésocolique' est present 2 fois
+Le mot 'nerfs' est present 1 fois
+Le mot 'anastomose' est present 2 fois
+Le mot 'rétro-péritonéaux' est present 1 fois
+Le mot 'PNACREATICO-DUODENALE' est present 2 fois
+Le mot 'PANCRÉAS' est present 1 fois
+Le mot 'péritonéaux' est present 3 fois
+Le mot 'paroi' est present 1 fois
+Le mot 'pancréas' est present 19 fois
+Le mot 'hauteur' est present 2 fois
+Le mot 'inférieur' est present 3 fois
+Le mot 'inferius' est present 1 fois
+Le mot 'VASCULARISATION' est present 2 fois
+Le mot 'déterminée' est present 1 fois
+Le mot 'DUODÉNUM' est present 1 fois
+Le mot 'port' est present 6 fois
+Le mot 'anatomique' est present 3 fois
+Le mot 'CAN' est present 5 fois
+Le mot 'digestif' est present 1 fois
+Le mot 'antérieur' est present 3 fois
+Le mot 'Corps' est present 1 fois
+Le mot 'multitude' est present 1 fois
+Le mot 'vaisseau' est present 1 fois
+Le mot 'ANATOMIE' est present 1 fois
+
+
+ ***  Comparaison de a1.txt avec dic_Sport
+ Les mots CAN suspense hauteur 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a1.txt présents dans le dic_Sport  est 3  ===>
+		le pourcentage par raport au dic_Sport = 5 %
+
+ *** Comparaison de a1.txt avec dic_Anatomie
+ Les mots ANATOMIE anatomique PANCRÉAS DUODÉNUM lombaire intestin grêle inferius duodéno-jéjunal mésocolique péritonéaux circonscrite postérieure lymphatique digestif exocrine antérieur endocrine vaisseau colonne inférieur anastomose paroi CONFIGURATION PNACREATICO-DUODENALE spléniques hauteur conjonctive nerfs ORGANES VASCULARISATION pancréas épaisseur rétro-péritonéaux 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a1.txt présents dans le dic_Anatomie  est 34  ===> 
+		le pourcentage par raport au dic_Anatomie = 34.6938775510204 %
+
+ *** Comparaison de a1.txt avec dic_Philo
+ Les mots Corps seul réuni déterminée raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a1.txt présents dans le dic_Philo  est 6  ===> 
+		le pourcentage par raport au dic_Philo = 7.14285714285714 %
+
+ *** Comparaison de a1.txt avec dic_Philo
+ Les mots Corps seul réuni déterminée raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a1.txt présents dans le dic_Philo  est 6  ===> 
+		le pourcentage par raport au dic_Philo = 7.14285714285714 %
+
+ *** Comparaison de a1.txt avec dic_Philo
+ Les mots Corps seul réuni déterminée raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a1.txt présents dans le dic_Philo  est 6  ===> 
+		le pourcentage par raport au dic_Philo = 7.14285714285714 %
+
+=============================================
+		Traitement du fichier a2.txt :
+
+=============================================
+Le mot 'port' est present 2 fois
+Le mot '' est present 756 fois
+Le mot 'antérieur' est present 2 fois
+Le mot 'ANATOMIE' est present 2 fois
+Le mot 'vessie' est present 4 fois
+Le mot 'IP' est present 2 fois
+Le mot 'postérieure' est present 2 fois
+Le mot 'sinus' est present 1 fois
+Le mot 'inférieur' est present 6 fois
+Le mot 'musculo-membraneux' est present 2 fois
+Le mot 'Muscle' est present 8 fois
+Le mot 'ongitudinal' est present 1 fois
+Le mot 'vésical' est present 1 fois
+Le mot 'VASCULARISATION' est present 2 fois
+Le mot 'homme' est present 2 fois
+Le mot 'nœuds' est present 6 fois
+Le mot 'urètre' est present 22 fois
+Le mot 'paroi' est present 2 fois
+Le mot 'plantation' est present 1 fois
+Le mot 'ISO' est present 2 fois
+Le mot 'urine' est present 2 fois
+Le mot 'nerfs' est present 2 fois
+Le mot 'CONFIGURATION' est present 4 fois
+Le mot 'lymphatique' est present 1 fois
+Le mot 'génitale ' est present 1 fois
+Le mot 'veines' est present 1 fois
+Le mot 'pubienne' est present 4 fois
+Le mot 'IE' est present 7 fois
+
+
+ ***  Comparaison de a2.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a2.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de a2.txt avec dic_Anatomie
+ Les mots ANATOMIE postérieure lymphatique veines Muscle antérieur urètre urine nœuds génitale  musculo-membraneux inférieur Muscle urine paroi homme CONFIGURATION vessie vésical musculo-membraneux pubienne sinus ongitudinal nerfs VASCULARISATION 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a2.txt présents dans le dic_Anatomie  est 25  ===> 
+		le pourcentage par raport au dic_Anatomie = 25.5102040816327 %
+
+ *** Comparaison de a2.txt avec dic_Philo
+ Les mots homme 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a2.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de a2.txt avec dic_Philo
+ Les mots homme 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a2.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de a2.txt avec dic_Philo
+ Les mots homme 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a2.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier a3.txt :
+
+=============================================
+Le mot 'nerfs' est present 5 fois
+Le mot 'épinière' est present 25 fois
+Le mot 'qualité' est present 1 fois
+Le mot 'substance' est present 46 fois
+Le mot 'lombaire' est present 1 fois
+Le mot 'système' est present 16 fois
+Le mot 'homme' est present 2 fois
+Le mot 'jeu' est present 1 fois
+Le mot 'positif' est present 1 fois
+Le mot 'hémisphère' est present 1 fois
+Le mot 'perception' est present 2 fois
+Le mot 'colonne' est present 3 fois
+Le mot 'raison' est present 3 fois
+Le mot 'cervical' est present 3 fois
+Le mot 'seul' est present 3 fois
+Le mot 'urine' est present 2 fois
+Le mot 'inférieur' est present 4 fois
+Le mot 'hauteur' est present 2 fois
+Le mot 'cérébrale' est present 2 fois
+Le mot 'nations' est present 2 fois
+Le mot 'finale' est present 1 fois
+Le mot 'UBSTANCE' est present 2 fois
+Le mot 'fibre' est present 19 fois
+Le mot 'port' est present 17 fois
+Le mot 'anatomique' est present 1 fois
+Le mot '' est present 824 fois
+Le mot 'nerveux' est present 22 fois
+Le mot 'antérieur' est present 6 fois
+Le mot 'postérieure' est present 3 fois
+
+
+ ***  Comparaison de a3.txt avec dic_Sport
+ Les mots jeu hauteur nations finale 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a3.txt présents dans le dic_Sport  est 4  ===>
+		le pourcentage par raport au dic_Sport = 6.66666666666667 %
+
+ *** Comparaison de a3.txt avec dic_Anatomie
+ Les mots anatomique lombaire épinière substance fibre postérieure cérébrale antérieur urine colonne inférieur urine homme hauteur système nerveux nerfs hémisphère UBSTANCE cervical nerveux 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a3.txt présents dans le dic_Anatomie  est 21  ===> 
+		le pourcentage par raport au dic_Anatomie = 21.4285714285714 %
+
+ *** Comparaison de a3.txt avec dic_Philo
+ Les mots perception seul homme substance positif raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a3.txt présents dans le dic_Philo  est 6  ===> 
+		le pourcentage par raport au dic_Philo = 7.14285714285714 %
+
+ *** Comparaison de a3.txt avec dic_Philo
+ Les mots perception seul homme substance positif raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a3.txt présents dans le dic_Philo  est 6  ===> 
+		le pourcentage par raport au dic_Philo = 7.14285714285714 %
+
+ *** Comparaison de a3.txt avec dic_Philo
+ Les mots perception seul homme substance positif raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a3.txt présents dans le dic_Philo  est 6  ===> 
+		le pourcentage par raport au dic_Philo = 7.14285714285714 %
+
+=============================================
+		Traitement du fichier a4.txt :
+
+=============================================
+Le mot '' est present 1604 fois
+Le mot 'port' est present 3 fois
+Le mot 'orale' est present 5 fois
+Le mot 'fibreuse' est present 2 fois
+Le mot 'ANATOMIE' est present 1 fois
+Le mot 'antérieur' est present 4 fois
+Le mot 'postérieure' est present 2 fois
+Le mot 'digestif' est present 1 fois
+Le mot 'inférieur' est present 5 fois
+Le mot 'jugulaire' est present 2 fois
+Le mot 'épaisseur' est present 1 fois
+Le mot 'voûte' est present 1 fois
+Le mot 'sinus' est present 1 fois
+Le mot 'ORALE ' est present 1 fois
+Le mot 'Muscle' est present 16 fois
+Le mot 'musculo-membraneux' est present 2 fois
+Le mot 'ongitudinal' est present 4 fois
+Le mot 'CAVITE' est present 3 fois
+Le mot 'fibre' est present 6 fois
+Le mot 'Voi' est present 1 fois
+Le mot 'prémolaire' est present 2 fois
+Le mot 'paroi' est present 2 fois
+Le mot 'nœuds' est present 4 fois
+Le mot 'l’organe ' est present 2 fois
+Le mot 'lymphatique' est present 4 fois
+Le mot 'réuni' est present 1 fois
+Le mot 'IE' est present 8 fois
+Le mot 'veines' est present 1 fois
+
+
+ ***  Comparaison de a4.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a4.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de a4.txt avec dic_Anatomie
+ Les mots ANATOMIE prémolaire CAVITE ORALE  fibre l’organe  postérieure lymphatique veines orale Muscle digestif antérieur nœuds musculo-membraneux inférieur Muscle paroi voûte musculo-membraneux sinus ongitudinal fibreuse jugulaire épaisseur 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a4.txt présents dans le dic_Anatomie  est 25  ===> 
+		le pourcentage par raport au dic_Anatomie = 25.5102040816327 %
+
+ *** Comparaison de a4.txt avec dic_Philo
+ Les mots réuni Voi 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a4.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de a4.txt avec dic_Philo
+ Les mots réuni Voi 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a4.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de a4.txt avec dic_Philo
+ Les mots réuni Voi 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a4.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+=============================================
+		Traitement du fichier a5.txt :
+
+=============================================
+Le mot 'système' est present 3 fois
+Le mot 'homme' est present 2 fois
+Le mot 'myélomère' est present 2 fois
+Le mot 'femme' est present 2 fois
+Le mot 'CONFIGURATION' est present 4 fois
+Le mot 'lymphatique' est present 1 fois
+Le mot 'épinière' est present 5 fois
+Le mot 'réuni' est present 1 fois
+Le mot 'IE' est present 16 fois
+Le mot 'lombaire' est present 5 fois
+Le mot '' est present 692 fois
+Le mot 'épidural' est present 2 fois
+Le mot 'fibreuse' est present 1 fois
+Le mot 'postérieure' est present 8 fois
+Le mot 'conjonctive' est present 1 fois
+Le mot 'ongitudinal' est present 1 fois
+Le mot 'EPINIERE' est present 12 fois
+Le mot 'fibre' est present 3 fois
+Le mot 'cervical' est present 4 fois
+Le mot 'vertébrales' est present 2 fois
+Le mot 'substance' est present 18 fois
+Le mot 'gagner' est present 1 fois
+Le mot 'veines' est present 2 fois
+Le mot 'CAN' est present 1 fois
+Le mot 'port' est present 2 fois
+Le mot 'anastomotique' est present 1 fois
+Le mot 'nerveux' est present 6 fois
+Le mot 'ANATOMIE' est present 1 fois
+Le mot 'antérieur' est present 13 fois
+Le mot 'MOELLE' est present 12 fois
+Le mot 'inférieur' est present 3 fois
+Le mot 'hauteur' est present 2 fois
+Le mot 'extra-dural' est present 1 fois
+Le mot 'VASCULARISATION' est present 4 fois
+Le mot 'UBSTANCE' est present 2 fois
+
+
+ ***  Comparaison de a5.txt avec dic_Sport
+ Les mots CAN gagner hauteur 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a5.txt présents dans le dic_Sport  est 3  ===>
+		le pourcentage par raport au dic_Sport = 5 %
+
+ *** Comparaison de a5.txt avec dic_Anatomie
+ Les mots ANATOMIE lombaire EPINIERE épinière anastomotique substance MOELLE fibre postérieure lymphatique veines antérieur inférieur homme CONFIGURATION femme hauteur système nerveux épidural ongitudinal épidural conjonctive vertébrales extra-dural fibreuse UBSTANCE VASCULARISATION myélomère cervical nerveux 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a5.txt présents dans le dic_Anatomie  est 31  ===> 
+		le pourcentage par raport au dic_Anatomie = 31.6326530612245 %
+
+ *** Comparaison de a5.txt avec dic_Philo
+ Les mots femme homme réuni substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a5.txt présents dans le dic_Philo  est 4  ===> 
+		le pourcentage par raport au dic_Philo = 4.76190476190476 %
+
+ *** Comparaison de a5.txt avec dic_Philo
+ Les mots femme homme réuni substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a5.txt présents dans le dic_Philo  est 4  ===> 
+		le pourcentage par raport au dic_Philo = 4.76190476190476 %
+
+ *** Comparaison de a5.txt avec dic_Philo
+ Les mots femme homme réuni substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a5.txt présents dans le dic_Philo  est 4  ===> 
+		le pourcentage par raport au dic_Philo = 4.76190476190476 %
+
+=============================================
+		Traitement du fichier a6.txt :
+
+=============================================
+Le mot 'cérébro-spinal' est present 1 fois
+Le mot 'extra-dural' est present 3 fois
+Le mot 'sinus' est present 8 fois
+Le mot 'pachy-méninge' est present 1 fois
+Le mot 'inférieur' est present 4 fois
+Le mot 'cérébrale' est present 2 fois
+Le mot 'antérieur' est present 5 fois
+Le mot 'port' est present 3 fois
+Le mot 'nerveux' est present 2 fois
+Le mot 'élimination' est present 1 fois
+Le mot 'nerfs' est present 2 fois
+Le mot 'vertébrales' est present 1 fois
+Le mot 'hémisphère' est present 2 fois
+Le mot 'paroi' est present 1 fois
+Le mot 'nations' est present 1 fois
+Le mot 'ongitudinal' est present 3 fois
+Le mot 'fibre' est present 1 fois
+Le mot 'épaisseur' est present 1 fois
+Le mot 'crânienne ' est present 1 fois
+Le mot 'source' est present 1 fois
+Le mot 'fibreuse' est present 1 fois
+Le mot 'conjonctive' est present 2 fois
+Le mot 'postérieure' est present 4 fois
+Le mot '' est present 468 fois
+Le mot 'épidural' est present 4 fois
+Le mot 'scissure' est present 4 fois
+Le mot 'orale' est present 1 fois
+Le mot 'réuni' est present 1 fois
+Le mot 'lombaire' est present 1 fois
+Le mot 'lepto-méninge' est present 1 fois
+Le mot 'crâne' est present 3 fois
+Le mot 'Volume' est present 1 fois
+Le mot 'système' est present 2 fois
+
+
+ ***  Comparaison de a6.txt avec dic_Sport
+ Les mots élimination nations 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a6.txt présents dans le dic_Sport  est 2  ===>
+		le pourcentage par raport au dic_Sport = 3.33333333333333 %
+
+ *** Comparaison de a6.txt avec dic_Anatomie
+ Les mots lombaire fibre postérieure orale cérébrale antérieur inférieur scissure crânienne  paroi scissure sinus système nerveux épidural cérébro-spinal ongitudinal épidural conjonctive lepto-méninge vertébrales crâne nerfs extra-dural pachy-méninge hémisphère fibreuse épaisseur nerveux 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a6.txt présents dans le dic_Anatomie  est 29  ===> 
+		le pourcentage par raport au dic_Anatomie = 29.5918367346939 %
+
+ *** Comparaison de a6.txt avec dic_Philo
+ Les mots réuni 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a6.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de a6.txt avec dic_Philo
+ Les mots réuni 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a6.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de a6.txt avec dic_Philo
+ Les mots réuni 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a6.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier a7.txt :
+
+=============================================
+Le mot 'ongitudinal' est present 3 fois
+Le mot 'UBSTANCE' est present 3 fois
+Le mot 'fibre' est present 1 fois
+Le mot 'VASCULARISATION' est present 2 fois
+Le mot 'inférieur' est present 6 fois
+Le mot 'hauteur' est present 6 fois
+Le mot 'cérébrale' est present 2 fois
+Le mot 'antérieur' est present 6 fois
+Le mot 'ANATOMIE' est present 3 fois
+Le mot 'IP' est present 2 fois
+Le mot 'postérieure' est present 5 fois
+Le mot 'NOYAUX' est present 6 fois
+Le mot 'CEREBRAL' est present 6 fois
+Le mot 'quadrijumeaux' est present 3 fois
+Le mot '' est present 844 fois
+Le mot 'nerveux' est present 2 fois
+Le mot 'Pédoncule' est present 1 fois
+Le mot 'substance' est present 10 fois
+Le mot 'IE' est present 15 fois
+Le mot 'nerfs' est present 5 fois
+Le mot 'épinière' est present 2 fois
+Le mot 'vertébrales' est present 1 fois
+Le mot 'colonne' est present 4 fois
+Le mot 'hémisphère' est present 1 fois
+Le mot 'crâne' est present 1 fois
+Le mot 'cervical' est present 1 fois
+Le mot 'seul' est present 1 fois
+Le mot 'système' est present 3 fois
+Le mot 'paroi' est present 1 fois
+
+
+ ***  Comparaison de a7.txt avec dic_Sport
+ Les mots hauteur 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a7.txt présents dans le dic_Sport  est 1  ===>
+		le pourcentage par raport au dic_Sport = 1.66666666666667 %
+
+ *** Comparaison de a7.txt avec dic_Anatomie
+ Les mots ANATOMIE épinière substance fibre postérieure CEREBRAL quadrijumeaux NOYAUX cérébrale antérieur Pédoncule colonne inférieur paroi hauteur système nerveux ongitudinal vertébrales crâne nerfs hémisphère UBSTANCE VASCULARISATION cervical nerveux 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a7.txt présents dans le dic_Anatomie  est 26  ===> 
+		le pourcentage par raport au dic_Anatomie = 26.530612244898 %
+
+ *** Comparaison de a7.txt avec dic_Philo
+ Les mots seul substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a7.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de a7.txt avec dic_Philo
+ Les mots seul substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a7.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de a7.txt avec dic_Philo
+ Les mots seul substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a7.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+=============================================
+		Traitement du fichier a8.txt :
+
+=============================================
+Le mot 'vessie' est present 11 fois
+Le mot 'ombilico-prévésicale' est present 1 fois
+Le mot 'antérieur' est present 9 fois
+Le mot 'vaisseau' est present 1 fois
+Le mot 'ANATOMIE' est present 2 fois
+Le mot 'port' est present 2 fois
+Le mot 'VASCULARISATION' est present 1 fois
+Le mot 'Branche' est present 1 fois
+Le mot 'inférieur' est present 6 fois
+Le mot 'urine' est present 2 fois
+Le mot 'abdominale' est present 2 fois
+Le mot 'paroi' est present 1 fois
+Le mot 'urètre' est present 3 fois
+Le mot 'abdomino-pelvienne' est present 1 fois
+Le mot 'veines' est present 1 fois
+Le mot 'génitale ' est present 1 fois
+Le mot 'pubienne' est present 4 fois
+Le mot 'nerfs' est present 3 fois
+Le mot 'IP' est present 1 fois
+Le mot 'grêle' est present 1 fois
+Le mot 'obstacle' est present 1 fois
+Le mot 'fibreuse' est present 1 fois
+Le mot '' est present 580 fois
+Le mot 'fibre' est present 2 fois
+Le mot 'vésical' est present 13 fois
+Le mot 'antéro-postérieur' est present 1 fois
+Le mot 'musculo-membraneux' est present 2 fois
+Le mot 'femme' est present 18 fois
+Le mot 'nœuds' est present 8 fois
+Le mot 'ampoules' est present 1 fois
+Le mot 'homme' est present 18 fois
+Le mot 'IE' est present 8 fois
+Le mot 'lymphatique' est present 5 fois
+Le mot 'CONFIGURATION' est present 4 fois
+
+
+ ***  Comparaison de a8.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a8.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de a8.txt avec dic_Anatomie
+ Les mots ANATOMIE grêle fibre lymphatique veines antérieur urètre vaisseau urine nœuds génitale  Branche musculo-membraneux inférieur ampoules urine paroi ombilico-prévésicale homme CONFIGURATION vessie vésical abdominale femme musculo-membraneux pubienne abdomino-pelvienne antéro-postérieur nerfs fibreuse VASCULARISATION 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a8.txt présents dans le dic_Anatomie  est 31  ===> 
+		le pourcentage par raport au dic_Anatomie = 31.6326530612245 %
+
+ *** Comparaison de a8.txt avec dic_Philo
+ Les mots femme obstacle homme 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a8.txt présents dans le dic_Philo  est 3  ===> 
+		le pourcentage par raport au dic_Philo = 3.57142857142857 %
+
+ *** Comparaison de a8.txt avec dic_Philo
+ Les mots femme obstacle homme 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a8.txt présents dans le dic_Philo  est 3  ===> 
+		le pourcentage par raport au dic_Philo = 3.57142857142857 %
+
+ *** Comparaison de a8.txt avec dic_Philo
+ Les mots femme obstacle homme 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a8.txt présents dans le dic_Philo  est 3  ===> 
+		le pourcentage par raport au dic_Philo = 3.57142857142857 %
+
+=============================================
+		Traitement du fichier a9.txt :
+
+=============================================
+
+
+ ***  Comparaison de a9.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a9.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de a9.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a9.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de a9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de a9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de a9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier a10.txt :
+
+=============================================
+Le mot 'paroi' est present 1 fois
+Le mot 'hémisphère' est present 13 fois
+Le mot 'hémisphériques' est present 3 fois
+Le mot 'vertébrales' est present 2 fois
+Le mot 'lumineux' est present 2 fois
+Le mot 'sphéno-pariétal' est present 2 fois
+Le mot 'OSSEUX' est present 1 fois
+Le mot 'substance' est present 12 fois
+Le mot 'anastomose' est present 1 fois
+Le mot 'veines' est present 6 fois
+Le mot 'port' est present 1 fois
+Le mot 'anatomique' est present 2 fois
+Le mot 'nerveux' est present 2 fois
+Le mot 'antérieur' est present 12 fois
+Le mot 'ANATOMIE' est present 1 fois
+Le mot 'sinus' est present 16 fois
+Le mot 'jugulaire' est present 1 fois
+Le mot 'inférieur' est present 7 fois
+Le mot 'hauteur' est present 2 fois
+Le mot 'cérébrale' est present 9 fois
+Le mot 'UBSTANCE' est present 1 fois
+Le mot 'VASCULARISATION' est present 2 fois
+Le mot 'système' est present 3 fois
+Le mot 'crâne' est present 2 fois
+Le mot 'CONFIGURATION' est present 4 fois
+Le mot 'IE' est present 11 fois
+Le mot 'CEREBRAL' est present 3 fois
+Le mot '' est present 1136 fois
+Le mot 'scissure' est present 38 fois
+Le mot 'orale' est present 1 fois
+Le mot 'VEINEUX' est present 3 fois
+Le mot 'fibreuse' est present 1 fois
+Le mot 'postérieure' est present 8 fois
+Le mot 'voûte' est present 2 fois
+Le mot 'épaisseur' est present 1 fois
+Le mot 'antéro-postérieur' est present 1 fois
+Le mot 'crânienne ' est present 3 fois
+Le mot 'ongitudinal' est present 7 fois
+Le mot 'fibre' est present 7 fois
+
+
+ ***  Comparaison de a10.txt avec dic_Sport
+ Les mots hauteur 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier a10.txt présents dans le dic_Sport  est 1  ===>
+		le pourcentage par raport au dic_Sport = 1.66666666666667 %
+
+ *** Comparaison de a10.txt avec dic_Anatomie
+ Les mots ANATOMIE anatomique substance fibre postérieure veines CEREBRAL orale cérébrale antérieur inférieur anastomose scissure crânienne  paroi CONFIGURATION voûte scissure hauteur antéro-postérieur sinus système VEINEUX nerveux OSSEUX ongitudinal vertébrales crâne hémisphère sphéno-pariétal fibreuse UBSTANCE jugulaire VASCULARISATION hémisphériques épaisseur nerveux 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier a10.txt présents dans le dic_Anatomie  est 37  ===> 
+		le pourcentage par raport au dic_Anatomie = 37.7551020408163 %
+
+ *** Comparaison de a10.txt avec dic_Philo
+ Les mots substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de a10.txt avec dic_Philo
+ Les mots substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de a10.txt avec dic_Philo
+ Les mots substance 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier a10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier b1.txt :
+
+=============================================
+Le mot 'hauteur' est present 2 fois
+Le mot 'jour' est present 1 fois
+Le mot 'lumineux' est present 1 fois
+Le mot 'potager' est present 1 fois
+Le mot '' est present 8 fois
+Le mot 'port' est present 1 fois
+Le mot 'balcon' est present 1 fois
+Le mot 'saison' est present 1 fois
+Le mot 'Botanic' est present 1 fois
+Le mot 'plantation' est present 2 fois
+
+
+ ***  Comparaison de b1.txt avec dic_Sport
+ Les mots hauteur 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b1.txt présents dans le dic_Sport  est 1  ===>
+		le pourcentage par raport au dic_Sport = 1.66666666666667 %
+
+ *** Comparaison de b1.txt avec dic_Anatomie
+ Les mots hauteur 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b1.txt présents dans le dic_Anatomie  est 1  ===> 
+		le pourcentage par raport au dic_Anatomie = 1.02040816326531 %
+
+ *** Comparaison de b1.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b1.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b1.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b1.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b1.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b1.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier b2.txt :
+
+=============================================
+Le mot 'jardin' est present 2 fois
+Le mot '' est present 28 fois
+Le mot 'port' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'site' est present 1 fois
+Le mot 'étiquettes botaniques' est present 1 fois
+
+
+ ***  Comparaison de b2.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b2.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de b2.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b2.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de b2.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b2.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b2.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b2.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b2.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b2.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier b3.txt :
+
+=============================================
+Le mot 'botaniste' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'ergonomique' est present 1 fois
+Le mot 'image' est present 1 fois
+Le mot 'source' est present 1 fois
+Le mot 'qualité' est present 1 fois
+Le mot '' est present 24 fois
+
+
+ ***  Comparaison de b3.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b3.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de b3.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b3.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de b3.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b3.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b3.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b3.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b3.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b3.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier b4.txt :
+
+=============================================
+Le mot 'étiquettes botaniques' est present 1 fois
+Le mot 'site' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'port' est present 1 fois
+Le mot '' est present 28 fois
+Le mot 'jardin' est present 2 fois
+
+
+ ***  Comparaison de b4.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b4.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de b4.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b4.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de b4.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b4.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b4.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b4.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b4.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b4.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier b5.txt :
+
+=============================================
+Le mot 'fleur' est present 1 fois
+Le mot 'akène' est present 1 fois
+Le mot 'pêche' est present 1 fois
+Le mot 'fruit' est present 8 fois
+Le mot 'pollinisé' est present 1 fois
+Le mot 'graine' est present 6 fois
+Le mot 'jeu' est present 1 fois
+Le mot 'mûre' est present 1 fois
+Le mot '' est present 48 fois
+Le mot 'jeune' est present 1 fois
+
+
+ ***  Comparaison de b5.txt avec dic_Sport
+ Les mots jeu 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b5.txt présents dans le dic_Sport  est 1  ===>
+		le pourcentage par raport au dic_Sport = 1.66666666666667 %
+
+ *** Comparaison de b5.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b5.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de b5.txt avec dic_Philo
+ Les mots jeune 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b5.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de b5.txt avec dic_Philo
+ Les mots jeune 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b5.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de b5.txt avec dic_Philo
+ Les mots jeune 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b5.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier b6.txt :
+
+=============================================
+Le mot 'plantation' est present 2 fois
+Le mot 'Botanic' est present 1 fois
+Le mot 'saison' est present 1 fois
+Le mot 'balcon' est present 1 fois
+Le mot 'port' est present 1 fois
+Le mot '' est present 8 fois
+Le mot 'lumineux' est present 1 fois
+Le mot 'potager' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'hauteur' est present 2 fois
+
+
+ ***  Comparaison de b6.txt avec dic_Sport
+ Les mots hauteur 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b6.txt présents dans le dic_Sport  est 1  ===>
+		le pourcentage par raport au dic_Sport = 1.66666666666667 %
+
+ *** Comparaison de b6.txt avec dic_Anatomie
+ Les mots hauteur 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b6.txt présents dans le dic_Anatomie  est 1  ===> 
+		le pourcentage par raport au dic_Anatomie = 1.02040816326531 %
+
+ *** Comparaison de b6.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b6.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b6.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b6.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b6.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b6.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier b7.txt :
+
+=============================================
+Le mot 'parthénocarpie' est present 1 fois
+Le mot 'figue' est present 1 fois
+Le mot 'carpelle' est present 1 fois
+Le mot 'aggloméré' est present 1 fois
+Le mot 'ananas' est present 1 fois
+Le mot '' est present 28 fois
+Le mot 'graine' est present 2 fois
+Le mot 'faux-fruits' est present 1 fois
+Le mot 'mûre' est present 1 fois
+Le mot 'paroi' est present 1 fois
+Le mot 'péricarpe' est present 1 fois
+Le mot 'fruit' est present 5 fois
+Le mot 'mûron' est present 1 fois
+Le mot 'fleur' est present 3 fois
+
+
+ ***  Comparaison de b7.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b7.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de b7.txt avec dic_Anatomie
+ Les mots paroi 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b7.txt présents dans le dic_Anatomie  est 1  ===> 
+		le pourcentage par raport au dic_Anatomie = 1.02040816326531 %
+
+ *** Comparaison de b7.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b7.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b7.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b7.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b7.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b7.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier b8.txt :
+
+=============================================
+Le mot 'site' est present 1 fois
+Le mot 'étiquettes botaniques' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'jardin' est present 2 fois
+Le mot 'port' est present 1 fois
+Le mot '' est present 28 fois
+
+
+ ***  Comparaison de b8.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b8.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de b8.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b8.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de b8.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b8.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b8.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b8.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de b8.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b8.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier b9.txt :
+
+=============================================
+Le mot 'seul' est present 1 fois
+Le mot 'carpelle' est present 1 fois
+Le mot '' est present 28 fois
+Le mot 'port' est present 2 fois
+Le mot 'fruit' est present 1 fois
+Le mot 'akène' est present 3 fois
+Le mot 'fleur' est present 1 fois
+
+
+ ***  Comparaison de b9.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b9.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de b9.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b9.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de b9.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b9.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de b9.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b9.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de b9.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b9.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier b10.txt :
+
+=============================================
+Le mot 'Maïs' est present 1 fois
+Le mot 'péricarpe' est present 2 fois
+Le mot 'fruit' est present 3 fois
+Le mot 'Caryopse' est present 1 fois
+Le mot 'seul' est present 1 fois
+Le mot 'port' est present 1 fois
+Le mot '' est present 28 fois
+Le mot 'graine' est present 6 fois
+Le mot 'paroi' est present 1 fois
+
+
+ ***  Comparaison de b10.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier b10.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de b10.txt avec dic_Anatomie
+ Les mots paroi 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier b10.txt présents dans le dic_Anatomie  est 1  ===> 
+		le pourcentage par raport au dic_Anatomie = 1.02040816326531 %
+
+ *** Comparaison de b10.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de b10.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de b10.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier b10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier i1.txt :
+
+=============================================
+Le mot 'packets' est present 27 fois
+Le mot 'site' est present 3 fois
+Le mot 'system' est present 10 fois
+Le mot 'injected' est present 1 fois
+Le mot 'spoofing' est present 5 fois
+Le mot 'command' est present 15 fois
+Le mot 'http' est present 3 fois
+Le mot 'source' est present 48 fois
+Le mot 'TCP' est present 12 fois
+Le mot 'IP' est present 17 fois
+Le mot 'Over' est present 1 fois
+Le mot 'steps' est present 1 fois
+Le mot 'port' est present 2 fois
+Le mot '' est present 1648 fois
+Le mot 'Host' est present 11 fois
+Le mot 'ttack' est present 22 fois
+Le mot 'Forwarding' est present 4 fois
+Le mot 'network' est present 9 fois
+Le mot 'data' est present 3 fois
+
+
+ ***  Comparaison de i1.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i1.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i1.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i1.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i1.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i1.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i1.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i1.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i1.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i1.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i2.txt :
+
+=============================================
+Le mot 'coprocessor' est present 1 fois
+Le mot 'I/O' est present 4 fois
+Le mot 'Code' est present 10 fois
+Le mot 'Beep' est present 10 fois
+Le mot 'System' est present 3 fois
+Le mot 'memory' est present 13 fois
+Le mot 'gif' est present 1 fois
+Le mot 'Motherboard' est present 2 fois
+Le mot 'video' est present 6 fois
+Le mot 'RAM' est present 5 fois
+Le mot 'system' est present 9 fois
+Le mot 'Math' est present 1 fois
+Le mot 'computer' est present 1 fois
+Le mot 'beep' est present 20 fois
+Le mot 'CPU' est present 6 fois
+Le mot 'DRAM' est present 2 fois
+Le mot 'Error ' est present 2 fois
+Le mot '' est present 764 fois
+Le mot 'port' est present 7 fois
+
+
+ ***  Comparaison de i2.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i2.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i2.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i2.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i2.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i2.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i2.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i2.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i2.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i2.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i3.txt :
+
+=============================================
+Le mot 'CPU' est present 2 fois
+Le mot '' est present 360 fois
+Le mot 'Error ' est present 2 fois
+Le mot 'port' est present 2 fois
+Le mot 'RAM' est present 8 fois
+Le mot 'Disk Drive' est present 1 fois
+Le mot 'video' est present 2 fois
+Le mot 'system' est present 3 fois
+Le mot 'Math' est present 2 fois
+Le mot 'Screen' est present 2 fois
+Le mot 'beep' est present 8 fois
+Le mot 'IBM' est present 2 fois
+Le mot 'System' est present 6 fois
+Le mot 'memory' est present 3 fois
+Le mot 'Motherboard' est present 2 fois
+Le mot 'data' est present 1 fois
+Le mot 'Diagnostic' est present 1 fois
+Le mot 'coprocessor' est present 1 fois
+Le mot 'CD-ROM' est present 1 fois
+Le mot 'SCSI' est present 3 fois
+Le mot 'Code' est present 8 fois
+Le mot 'Shutdown' est present 1 fois
+Le mot 'CD' est present 1 fois
+Le mot 'Beep' est present 15 fois
+Le mot 'match' est present 1 fois
+
+
+ ***  Comparaison de i3.txt avec dic_Sport
+ Les mots match 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i3.txt présents dans le dic_Sport  est 1  ===>
+		le pourcentage par raport au dic_Sport = 1.66666666666667 %
+
+ *** Comparaison de i3.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i3.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i3.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i3.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i3.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i3.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i3.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i3.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i4.txt :
+
+=============================================
+Le mot 'password' est present 2 fois
+Le mot 'reinstall' est present 1 fois
+Le mot 'machine' est present 2 fois
+Le mot 'command' est present 2 fois
+Le mot 'Bios' est present 1 fois
+Le mot 'restart' est present 1 fois
+Le mot 'steps' est present 1 fois
+Le mot 'crack' est present 1 fois
+Le mot 'gif' est present 2 fois
+Le mot 'data' est present 1 fois
+Le mot 'dos-prompt' est present 1 fois
+Le mot 'Boot' est present 1 fois
+Le mot '' est present 120 fois
+
+
+ ***  Comparaison de i4.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i4.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i4.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i4.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i4.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i4.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i4.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i4.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i4.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i4.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i5.txt :
+
+=============================================
+Le mot 'DEBUG' est present 1 fois
+Le mot 'click' est present 1 fois
+Le mot 'hexadecimal' est present 2 fois
+Le mot 'technique' est present 1 fois
+Le mot '' est present 20 fois
+Le mot 'Calculator' est present 1 fois
+Le mot 'CMD' est present 1 fois
+Le mot 'XP ' est present 1 fois
+Le mot 'Windows' est present 2 fois
+Le mot 'Hex' est present 1 fois
+Le mot 'command' est present 1 fois
+Le mot 'digits' est present 2 fois
+
+
+ ***  Comparaison de i5.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i5.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i5.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i5.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i5.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i5.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i5.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i5.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i5.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i5.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i6.txt :
+
+=============================================
+Le mot 'command' est present 2 fois
+Le mot 'Publisher' est present 1 fois
+Le mot 'http' est present 1 fois
+Le mot 'Windows' est present 6 fois
+Le mot 'XP ' est present 6 fois
+Le mot 'Bootable' est present 1 fois
+Le mot 'port' est present 1 fois
+Le mot '' est present 404 fois
+Le mot 'Directory' est present 1 fois
+Le mot 'CD' est present 6 fois
+Le mot 'image' est present 1 fois
+Le mot 'Code' est present 2 fois
+Le mot 'CD-ROM' est present 1 fois
+Le mot 'data' est present 1 fois
+Le mot 'WINXPSP' est present 5 fois
+Le mot 'Boot' est present 2 fois
+Le mot 'folder' est present 6 fois
+Le mot 'Volume' est present 2 fois
+Le mot 'ISO' est present 6 fois
+Le mot 'System' est present 1 fois
+
+
+ ***  Comparaison de i6.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i6.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i6.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i6.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i6.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i6.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i6.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i6.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i6.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i6.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i7.txt :
+
+=============================================
+Le mot 'Hosting' est present 1 fois
+Le mot 'IP' est present 1 fois
+Le mot 'NOYAUX' est present 2 fois
+Le mot 'Explorer' est present 1 fois
+Le mot 'Media' est present 1 fois
+Le mot 'computer' est present 1 fois
+Le mot 'video' est present 1 fois
+Le mot 'RAM' est present 2 fois
+Le mot 'source' est present 1 fois
+Le mot 'crack' est present 1 fois
+Le mot 'technique' est present 1 fois
+Le mot 'Volume' est present 1 fois
+Le mot 'ISO' est present 1 fois
+Le mot 'Streams' est present 1 fois
+Le mot 'data' est present 1 fois
+Le mot 'WINXPSP' est present 1 fois
+Le mot 'nœuds' est present 2 fois
+Le mot 'Code' est present 1 fois
+Le mot 'reinstall' est present 1 fois
+Le mot 'IE' est present 1 fois
+Le mot 'coprocessor' est present 1 fois
+Le mot 'password' est present 1 fois
+Le mot 'CONFIGURATION' est present 2 fois
+Le mot 'Transfer' est present 1 fois
+Le mot 'Beep' est present 1 fois
+Le mot 'digits' est present 1 fois
+Le mot 'sql' est present 1 fois
+Le mot 'RULE' est present 1 fois
+Le mot 'hexadecimal' est present 1 fois
+Le mot 'CPU' est present 1 fois
+Le mot 'DRAM' est present 1 fois
+Le mot 'click' est present 1 fois
+Le mot 'port' est present 1 fois
+Le mot 'Calculator' est present 1 fois
+Le mot 'dos-prompt' est present 1 fois
+Le mot 'URLS' est present 1 fois
+Le mot 'packets' est present 1 fois
+Le mot 'Bootable' est present 1 fois
+Le mot 'HISTORY' est present 1 fois
+Le mot 'command' est present 1 fois
+Le mot 'Bios' est present 1 fois
+Le mot 'http' est present 1 fois
+Le mot 'memory' est present 1 fois
+Le mot 'desktop' est present 1 fois
+Le mot 'IBM' est present 1 fois
+Le mot 'folder' est present 1 fois
+Le mot 'Boot' est present 2 fois
+Le mot 'PHP' est present 1 fois
+Le mot 'gif' est present 1 fois
+Le mot 'CMD' est present 1 fois
+Le mot 'Directory' est present 1 fois
+Le mot 'Hex' est present 1 fois
+Le mot 'image' est present 1 fois
+Le mot 'MySQL' est present 1 fois
+Le mot 'Shutdown' est present 1 fois
+Le mot 'TCP' est present 1 fois
+Le mot 'steps' est present 1 fois
+Le mot '' est present 364 fois
+Le mot 'Error ' est present 1 fois
+Le mot 'Windows' est present 1 fois
+Le mot 'XP ' est present 1 fois
+Le mot 'site' est present 1 fois
+Le mot 'Math' est present 1 fois
+Le mot 'Disk Drive' est present 1 fois
+Le mot 'spoofing' est present 1 fois
+Le mot 'binary' est present 1 fois
+Le mot 'System' est present 1 fois
+Le mot 'restart' est present 1 fois
+Le mot 'network' est present 1 fois
+Le mot 'DEBUG' est present 1 fois
+Le mot 'Motherboard' est present 1 fois
+Le mot 'SCSI' est present 1 fois
+Le mot 'CD-ROM' est present 1 fois
+Le mot 'I/O' est present 1 fois
+Le mot 'Forwarding' est present 1 fois
+Le mot 'CD' est present 2 fois
+Le mot 'Over' est present 1 fois
+Le mot 'Host' est present 2 fois
+Le mot 'system' est present 1 fois
+Le mot 'beep' est present 1 fois
+Le mot 'injected' est present 1 fois
+Le mot 'Publisher' est present 1 fois
+Le mot 'Screen' est present 1 fois
+Le mot 'application' est present 1 fois
+Le mot 'Diagnostic' est present 1 fois
+Le mot 'ttack' est present 1 fois
+Le mot 'Connection' est present 1 fois
+Le mot 'machine' est present 1 fois
+
+
+ ***  Comparaison de i7.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i7.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i7.txt avec dic_Anatomie
+ Les mots NOYAUX nœuds CONFIGURATION 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i7.txt présents dans le dic_Anatomie  est 3  ===> 
+		le pourcentage par raport au dic_Anatomie = 3.06122448979592 %
+
+ *** Comparaison de i7.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i7.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i7.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i7.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i7.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i7.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i8.txt :
+
+=============================================
+Le mot 'click' est present 2 fois
+Le mot 'Streams' est present 1 fois
+Le mot 'Explorer' est present 1 fois
+Le mot '' est present 48 fois
+Le mot 'gif' est present 1 fois
+Le mot 'Media' est present 2 fois
+Le mot 'Windows' est present 2 fois
+Le mot 'IE' est present 1 fois
+Le mot 'video' est present 5 fois
+Le mot 'image' est present 2 fois
+Le mot 'source' est present 4 fois
+
+
+ ***  Comparaison de i8.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i8.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i8.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i8.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i8.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i8.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i8.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i8.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i8.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i8.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i9.txt :
+
+=============================================
+Le mot 'http' est present 1 fois
+Le mot 'video' est present 1 fois
+Le mot 'site' est present 4 fois
+Le mot 'Host' est present 5 fois
+Le mot '' est present 212 fois
+Le mot 'RULE' est present 1 fois
+Le mot 'Hosting' est present 3 fois
+Le mot 'MySQL' est present 1 fois
+Le mot 'image' est present 1 fois
+Le mot 'Directory' est present 1 fois
+Le mot 'Connection' est present 1 fois
+Le mot 'Transfer' est present 1 fois
+Le mot 'CMD' est present 1 fois
+Le mot 'gif' est present 1 fois
+Le mot 'PHP' est present 1 fois
+Le mot 'crack' est present 1 fois
+Le mot 'binary' est present 1 fois
+
+
+ ***  Comparaison de i9.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i9.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i9.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i9.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier i10.txt :
+
+=============================================
+Le mot 'computer' est present 4 fois
+Le mot 'site' est present 3 fois
+Le mot 'Windows' est present 11 fois
+Le mot 'HISTORY' est present 5 fois
+Le mot 'http' est present 1 fois
+Le mot 'Explorer' est present 10 fois
+Le mot 'steps' est present 2 fois
+Le mot 'click' est present 1 fois
+Le mot '' est present 848 fois
+Le mot 'port' est present 3 fois
+Le mot 'URLS' est present 1 fois
+Le mot 'IE' est present 11 fois
+Le mot 'Shutdown' est present 1 fois
+Le mot 'machine' est present 1 fois
+Le mot 'CD' est present 13 fois
+Le mot 'desktop' est present 9 fois
+Le mot 'binary' est present 2 fois
+Le mot 'System' est present 2 fois
+Le mot 'restart' est present 3 fois
+Le mot 'folder' est present 19 fois
+Le mot 'data' est present 4 fois
+Le mot 'application' est present 1 fois
+
+
+ ***  Comparaison de i10.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier i10.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de i10.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier i10.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de i10.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i10.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i10.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i10.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de i10.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier i10.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier s1.txt :
+
+=============================================
+Le mot 'meilleur' est present 2 fois
+Le mot 'match' est present 3 fois
+Le mot 'Hull City' est present 1 fois
+Le mot 'qualité' est present 2 fois
+Le mot 'championnat' est present 1 fois
+Le mot 'Ligue' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'éliminé' est present 1 fois
+Le mot 'Stamford Bridge' est present 1 fois
+Le mot 'système' est present 1 fois
+Le mot 'ballon' est present 1 fois
+Le mot 'jeu' est present 2 fois
+Le mot 'défaite' est present 1 fois
+Le mot 'Chelsea' est present 2 fois
+Le mot 'seul' est present 1 fois
+Le mot 'défenseur' est present 2 fois
+Le mot 'Lazio' est present 1 fois
+Le mot 'Liverpool' est present 1 fois
+Le mot 'officiel' est present 1 fois
+Le mot 'Invaincu' est present 1 fois
+Le mot '' est present 40 fois
+Le mot 'port' est present 1 fois
+Le mot 'minute' est present 3 fois
+Le mot 'victoire' est present 4 fois
+Le mot 'Arsenal' est present 1 fois
+Le mot 'Coupe' est present 1 fois
+
+
+ ***  Comparaison de s1.txt avec dic_Sport
+ Les mots victoire Hull City meilleur défenseur championnat éliminé Lazio ballon officiel victoire match Coupe Stamford Bridge Arsenal Chelsea Liverpool minute Ligue jeu Invaincu défaite 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s1.txt présents dans le dic_Sport  est 21  ===>
+		le pourcentage par raport au dic_Sport = 35 %
+
+ *** Comparaison de s1.txt avec dic_Anatomie
+ Les mots système 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s1.txt présents dans le dic_Anatomie  est 1  ===> 
+		le pourcentage par raport au dic_Anatomie = 1.02040816326531 %
+
+ *** Comparaison de s1.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s1.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s1.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s1.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s1.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s1.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier s2.txt :
+
+=============================================
+Le mot 'meilleur' est present 1 fois
+Le mot 'Real Madrid' est present 1 fois
+Le mot 'Ligue' est present 1 fois
+Le mot 'histoire' est present 4 fois
+Le mot 'jour' est present 3 fois
+Le mot 'tournoi' est present 3 fois
+Le mot 'défaite' est present 1 fois
+Le mot 'compétition' est present 2 fois
+Le mot 'confédérations' est present 3 fois
+Le mot 'Afrique' est present 5 fois
+Le mot 'tort' est present 2 fois
+Le mot 'Lazio' est present 1 fois
+Le mot 'vs' est present 1 fois
+Le mot 'prochain' est present 1 fois
+Le mot 'joueur' est present 3 fois
+Le mot 'nations' est present 3 fois
+Le mot 'finale' est present 6 fois
+Le mot 'Egypte' est present 5 fois
+Le mot 'équipe' est present 1 fois
+Le mot 'Cameroun' est present 7 fois
+Le mot 'port' est present 1 fois
+Le mot '' est present 92 fois
+Le mot 'esprit' est present 1 fois
+Le mot 'CAN' est present 2 fois
+Le mot 'minute' est present 1 fois
+Le mot 'perdu' est present 1 fois
+Le mot 'Barça' est present 1 fois
+Le mot 'victoire' est present 6 fois
+Le mot 'Coupe' est present 6 fois
+
+
+ ***  Comparaison de s2.txt avec dic_Sport
+ Les mots victoire CAN meilleur Lazio victoire Coupe confédérations compétition Egypte minute histoire Ligue équipe Cameroun tort défaite Real Madrid prochain vs Afrique joueur nations finale tournoi Barça 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s2.txt présents dans le dic_Sport  est 25  ===>
+		le pourcentage par raport au dic_Sport = 41.6666666666667 %
+
+ *** Comparaison de s2.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s2.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s2.txt avec dic_Philo
+ Les mots esprit perdu histoire 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s2.txt présents dans le dic_Philo  est 3  ===> 
+		le pourcentage par raport au dic_Philo = 3.57142857142857 %
+
+ *** Comparaison de s2.txt avec dic_Philo
+ Les mots esprit perdu histoire 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s2.txt présents dans le dic_Philo  est 3  ===> 
+		le pourcentage par raport au dic_Philo = 3.57142857142857 %
+
+ *** Comparaison de s2.txt avec dic_Philo
+ Les mots esprit perdu histoire 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s2.txt présents dans le dic_Philo  est 3  ===> 
+		le pourcentage par raport au dic_Philo = 3.57142857142857 %
+
+=============================================
+		Traitement du fichier s3.txt :
+
+=============================================
+Le mot 'Coupe' est present 2 fois
+Le mot 'Arsenal' est present 1 fois
+Le mot '' est present 32 fois
+Le mot 'CAN' est present 2 fois
+Le mot 'port' est present 1 fois
+Le mot 'minute' est present 2 fois
+Le mot 'finale' est present 1 fois
+Le mot 'nations' est present 2 fois
+Le mot 'Cameroun' est present 5 fois
+Le mot 'stade' est present 1 fois
+Le mot 'équipe' est present 1 fois
+Le mot 'Egypte' est present 1 fois
+Le mot 'technique' est present 1 fois
+Le mot 'Afrique' est present 3 fois
+Le mot 'prolongation' est present 1 fois
+Le mot 'jeu' est present 1 fois
+Le mot 'suspense' est present 1 fois
+Le mot 'football' est present 1 fois
+Le mot 'battant' est present 1 fois
+Le mot 'histoire' est present 2 fois
+
+
+ ***  Comparaison de s3.txt avec dic_Sport
+ Les mots prolongation CAN Coupe suspense Arsenal Egypte minute football histoire jeu équipe Cameroun stade battant Afrique nations finale 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s3.txt présents dans le dic_Sport  est 17  ===>
+		le pourcentage par raport au dic_Sport = 28.3333333333333 %
+
+ *** Comparaison de s3.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s3.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s3.txt avec dic_Philo
+ Les mots histoire 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s3.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s3.txt avec dic_Philo
+ Les mots histoire 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s3.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s3.txt avec dic_Philo
+ Les mots histoire 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s3.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier s4.txt :
+
+=============================================
+Le mot 'africain' est present 1 fois
+Le mot 'résultat' est present 2 fois
+Le mot 'élimination' est present 1 fois
+Le mot 'mérité' est present 1 fois
+Le mot 'minute' est present 1 fois
+Le mot 'CAN' est present 1 fois
+Le mot '' est present 52 fois
+Le mot 'port' est present 1 fois
+Le mot 'Math' est present 1 fois
+Le mot 'Leekens' est present 1 fois
+Le mot 'équipe' est present 1 fois
+Le mot 'Slimani' est present 1 fois
+Le mot 'Algérie' est present 6 fois
+Le mot 'défenseur' est present 1 fois
+Le mot 'Carthage' est present 1 fois
+Le mot 'maladroites ' est present 1 fois
+Le mot 'catastrophe' est present 2 fois
+Le mot 'Tunisie' est present 5 fois
+Le mot 'défaite' est present 1 fois
+Le mot 'jeu' est present 2 fois
+Le mot 'initiative' est present 1 fois
+Le mot 'gagner' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'adversaires' est present 1 fois
+Le mot 'méritée. ' est present 1 fois
+Le mot 'Mahrez' est present 1 fois
+
+
+ ***  Comparaison de s4.txt avec dic_Sport
+ Les mots CAN défenseur gagner catastrophe minute africain jeu équipe Slimani Tunisie initiative mérité élimination défaite maladroites  Carthage Leekens Mahrez adversaires Algérie résultat 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s4.txt présents dans le dic_Sport  est 21  ===>
+		le pourcentage par raport au dic_Sport = 35 %
+
+ *** Comparaison de s4.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s4.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s4.txt avec dic_Philo
+ Les mots méritée.  catastrophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s4.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de s4.txt avec dic_Philo
+ Les mots méritée.  catastrophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s4.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de s4.txt avec dic_Philo
+ Les mots méritée.  catastrophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s4.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+=============================================
+		Traitement du fichier s5.txt :
+
+=============================================
+Le mot 'jour' est present 2 fois
+Le mot 'qualité' est present 1 fois
+Le mot 'Ligue' est present 1 fois
+Le mot 'Mahrez' est present 1 fois
+Le mot 'match' est present 4 fois
+Le mot 'seul' est present 2 fois
+Le mot 'Chelsea' est present 1 fois
+Le mot 'ballon' est present 1 fois
+Le mot 'jeu' est present 1 fois
+Le mot 'défaite' est present 1 fois
+Le mot 'Cameroun' est present 1 fois
+Le mot 'Leekens' est present 2 fois
+Le mot 'équipe' est present 2 fois
+Le mot 'finale' est present 1 fois
+Le mot 'joueur' est present 2 fois
+Le mot 'défenseur' est present 1 fois
+Le mot 'Algérie' est present 6 fois
+Le mot 'Daniel' est present 1 fois
+Le mot 'Coupe' est present 3 fois
+Le mot 'saison' est present 1 fois
+Le mot 'résultat' est present 1 fois
+Le mot 'minute' est present 1 fois
+Le mot '' est present 56 fois
+
+
+ ***  Comparaison de s5.txt avec dic_Sport
+ Les mots défenseur ballon match Coupe Chelsea minute Ligue jeu équipe Cameroun défaite Leekens Mahrez joueur Algérie finale résultat 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s5.txt présents dans le dic_Sport  est 17  ===>
+		le pourcentage par raport au dic_Sport = 28.3333333333333 %
+
+ *** Comparaison de s5.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s5.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s5.txt avec dic_Philo
+ Les mots seul Daniel 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s5.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de s5.txt avec dic_Philo
+ Les mots seul Daniel 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s5.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+ *** Comparaison de s5.txt avec dic_Philo
+ Les mots seul Daniel 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s5.txt présents dans le dic_Philo  est 2  ===> 
+		le pourcentage par raport au dic_Philo = 2.38095238095238 %
+
+=============================================
+		Traitement du fichier s6.txt :
+
+=============================================
+Le mot 'finale' est present 1 fois
+Le mot 'prochain' est present 2 fois
+Le mot 'Dieu' est present 1 fois
+Le mot 'Coupe' est present 4 fois
+Le mot 'jeune' est present 1 fois
+Le mot '' est present 136 fois
+Le mot 'esprit' est present 4 fois
+Le mot 'perdu' est present 2 fois
+Le mot 'adversaires' est present 1 fois
+Le mot 'éliminé' est present 3 fois
+Le mot 'match' est present 3 fois
+Le mot 'qualité' est present 1 fois
+Le mot 'FAF' est present 1 fois
+Le mot 'technique' est present 1 fois
+Le mot 'compétition' est present 4 fois
+Le mot 'raison' est present 1 fois
+Le mot 'seul' est present 2 fois
+Le mot 'Afrique' est present 3 fois
+Le mot 'Cameroun' est present 2 fois
+Le mot 'Leekens' est present 6 fois
+Le mot 'équipe' est present 6 fois
+Le mot 'Algérie' est present 5 fois
+Le mot 'joueur' est present 6 fois
+Le mot 'résultat' est present 1 fois
+Le mot 'saison' est present 1 fois
+Le mot 'CAN' est present 11 fois
+Le mot 'port' est present 7 fois
+Le mot 'élimination' est present 1 fois
+Le mot 'jour' est present 3 fois
+Le mot 'meilleur' est present 3 fois
+Le mot 'Voi' est present 1 fois
+Le mot 'Tunisie' est present 3 fois
+Le mot 'jeu' est present 4 fois
+
+
+ ***  Comparaison de s6.txt avec dic_Sport
+ Les mots CAN meilleur éliminé FAF match Coupe compétition jeu équipe Cameroun Tunisie élimination Leekens prochain Afrique joueur adversaires Algérie finale résultat 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s6.txt présents dans le dic_Sport  est 20  ===>
+		le pourcentage par raport au dic_Sport = 33.3333333333333 %
+
+ *** Comparaison de s6.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s6.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s6.txt avec dic_Philo
+ Les mots jeune esprit seul perdu Voi Dieu raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s6.txt présents dans le dic_Philo  est 7  ===> 
+		le pourcentage par raport au dic_Philo = 8.33333333333333 %
+
+ *** Comparaison de s6.txt avec dic_Philo
+ Les mots jeune esprit seul perdu Voi Dieu raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s6.txt présents dans le dic_Philo  est 7  ===> 
+		le pourcentage par raport au dic_Philo = 8.33333333333333 %
+
+ *** Comparaison de s6.txt avec dic_Philo
+ Les mots jeune esprit seul perdu Voi Dieu raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s6.txt présents dans le dic_Philo  est 7  ===> 
+		le pourcentage par raport au dic_Philo = 8.33333333333333 %
+
+=============================================
+		Traitement du fichier s7.txt :
+
+=============================================
+Le mot 'Afrique' est present 1 fois
+Le mot 'distinct' est present 2 fois
+Le mot 'Mahrez' est present 1 fois
+Le mot 'match' est present 1 fois
+Le mot 'meilleur' est present 7 fois
+Le mot 'tournoi' est present 2 fois
+Le mot 'jour' est present 3 fois
+Le mot '' est present 64 fois
+Le mot 'CAN' est present 1 fois
+Le mot 'port' est present 9 fois
+Le mot 'victoire' est present 2 fois
+Le mot 'saison' est present 3 fois
+Le mot 'africain' est present 1 fois
+Le mot 'joueur' est present 7 fois
+Le mot 'Algérie' est present 1 fois
+Le mot 'équipe' est present 1 fois
+
+
+ ***  Comparaison de s7.txt avec dic_Sport
+ Les mots victoire CAN meilleur victoire match africain équipe Mahrez Afrique joueur Algérie tournoi 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s7.txt présents dans le dic_Sport  est 12  ===>
+		le pourcentage par raport au dic_Sport = 20 %
+
+ *** Comparaison de s7.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s7.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s7.txt avec dic_Philo
+ Les mots distinct 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s7.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s7.txt avec dic_Philo
+ Les mots distinct 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s7.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s7.txt avec dic_Philo
+ Les mots distinct 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s7.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier s8.txt :
+
+=============================================
+Le mot 'africain' est present 1 fois
+Le mot 'résultat' est present 1 fois
+Le mot 'Coupe' est present 1 fois
+Le mot 'victoire' est present 2 fois
+Le mot 'CAN' est present 3 fois
+Le mot '' est present 84 fois
+Le mot 'port' est present 3 fois
+Le mot 'perdu' est present 1 fois
+Le mot 'finale' est present 1 fois
+Le mot 'équipe' est present 2 fois
+Le mot 'command' est present 3 fois
+Le mot 'prochain' est present 1 fois
+Le mot 'Algérie' est present 11 fois
+Le mot 'fruit' est present 1 fois
+Le mot 'joueur' est present 3 fois
+Le mot 'technique' est present 1 fois
+Le mot 'FAF' est present 2 fois
+Le mot 'raison' est present 1 fois
+Le mot 'Afrique' est present 1 fois
+Le mot 'seul' est present 2 fois
+Le mot 'Voi' est present 1 fois
+Le mot 'juge' est present 1 fois
+Le mot 'Tunisie' est present 1 fois
+Le mot 'match' est present 1 fois
+Le mot 'football' est present 2 fois
+Le mot 'qualité' est present 1 fois
+Le mot 'championnat' est present 2 fois
+
+
+ ***  Comparaison de s8.txt avec dic_Sport
+ Les mots victoire CAN championnat FAF victoire match Coupe africain football équipe Tunisie prochain Afrique joueur Algérie finale résultat 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s8.txt présents dans le dic_Sport  est 17  ===>
+		le pourcentage par raport au dic_Sport = 28.3333333333333 %
+
+ *** Comparaison de s8.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s8.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s8.txt avec dic_Philo
+ Les mots juge seul perdu Voi raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s8.txt présents dans le dic_Philo  est 5  ===> 
+		le pourcentage par raport au dic_Philo = 5.95238095238095 %
+
+ *** Comparaison de s8.txt avec dic_Philo
+ Les mots juge seul perdu Voi raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s8.txt présents dans le dic_Philo  est 5  ===> 
+		le pourcentage par raport au dic_Philo = 5.95238095238095 %
+
+ *** Comparaison de s8.txt avec dic_Philo
+ Les mots juge seul perdu Voi raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s8.txt présents dans le dic_Philo  est 5  ===> 
+		le pourcentage par raport au dic_Philo = 5.95238095238095 %
+
+=============================================
+		Traitement du fichier s9.txt :
+
+=============================================
+Le mot 'port' est present 1 fois
+Le mot '' est present 4 fois
+Le mot 'prolongation' est present 1 fois
+Le mot 'Chelsea' est present 1 fois
+Le mot 'prochain' est present 1 fois
+Le mot 'Real Madrid' est present 1 fois
+Le mot 'joueur' est present 1 fois
+Le mot 'jour' est present 1 fois
+Le mot 'Stamford Bridge' est present 1 fois
+
+
+ ***  Comparaison de s9.txt avec dic_Sport
+ Les mots prolongation Stamford Bridge Chelsea Real Madrid prochain joueur 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s9.txt présents dans le dic_Sport  est 6  ===>
+		le pourcentage par raport au dic_Sport = 10 %
+
+ *** Comparaison de s9.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s9.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de s9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+ *** Comparaison de s9.txt avec dic_Philo
+ Les mots  
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s9.txt présents dans le dic_Philo  est 0  ===> 
+		le pourcentage par raport au dic_Philo = 0 %
+
+=============================================
+		Traitement du fichier s10.txt :
+
+=============================================
+Le mot 'match' est present 3 fois
+Le mot 'Algérie' est present 4 fois
+Le mot 'finale' est present 1 fois
+Le mot 'jour' est present 2 fois
+Le mot 'équipe' est present 2 fois
+Le mot 'Leekens' est present 1 fois
+Le mot 'Cameroun' est present 1 fois
+Le mot '' est present 36 fois
+Le mot 'jeu' est present 1 fois
+Le mot 'défaite' est present 1 fois
+Le mot 'résultat' est present 1 fois
+Le mot 'seul' est present 1 fois
+Le mot 'Coupe' est present 3 fois
+Le mot 'Chelsea' est present 1 fois
+
+
+ ***  Comparaison de s10.txt avec dic_Sport
+ Les mots match Coupe Chelsea jeu équipe Cameroun défaite Leekens Algérie finale résultat 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier s10.txt présents dans le dic_Sport  est 11  ===>
+		le pourcentage par raport au dic_Sport = 18.3333333333333 %
+
+ *** Comparaison de s10.txt avec dic_Anatomie
+ Les mots  
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier s10.txt présents dans le dic_Anatomie  est 0  ===> 
+		le pourcentage par raport au dic_Anatomie = 0 %
+
+ *** Comparaison de s10.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s10.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+ *** Comparaison de s10.txt avec dic_Philo
+ Les mots seul 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier s10.txt présents dans le dic_Philo  est 1  ===> 
+		le pourcentage par raport au dic_Philo = 1.19047619047619 %
+
+=============================================
+		Traitement du fichier p1.txt :
+
+=============================================
+Le mot 'command' est present 1 fois
+Le mot 'Daniel' est present 4 fois
+Le mot 'vs' est present 3 fois
+Le mot 'port' est present 5 fois
+Le mot 'Esther' est present 4 fois
+Le mot 'antérieur' est present 2 fois
+Le mot 'meilleur' est present 1 fois
+Le mot 'Néhémie' est present 6 fois
+Le mot 'jour' est present 1 fois
+Le mot 'juge' est present 1 fois
+Le mot 'Psaumes' est present 1 fois
+Le mot 'Esdras' est present 7 fois
+Le mot 'pêche' est present 2 fois
+Le mot 'pensé' est present 2 fois
+Le mot 'généraux' est present 1 fois
+Le mot 'Dieu' est present 2 fois
+Le mot 'liberté' est present 3 fois
+Le mot 'site' est present 2 fois
+Le mot 'perdu' est present 1 fois
+Le mot 'esprit' est present 1 fois
+Le mot '' est present 204 fois
+Le mot 'évidente' est present 1 fois
+Le mot 'Prophète' est present 5 fois
+Le mot 'époque' est present 4 fois
+Le mot 'histoire' est present 14 fois
+Le mot 'Prophétie' est present 5 fois
+Le mot 'réuni' est present 4 fois
+Le mot 'homme' est present 10 fois
+Le mot 'paix' est present 1 fois
+Le mot 'femme' est present 2 fois
+Le mot 'seul' est present 5 fois
+Le mot 'raison' est present 3 fois
+
+
+ ***  Comparaison de p1.txt avec dic_Sport
+ Les mots meilleur histoire vs 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p1.txt présents dans le dic_Sport  est 3  ===>
+		le pourcentage par raport au dic_Sport = 5 %
+
+ *** Comparaison de p1.txt avec dic_Anatomie
+ Les mots antérieur homme femme 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p1.txt présents dans le dic_Anatomie  est 3  ===> 
+		le pourcentage par raport au dic_Anatomie = 3.06122448979592 %
+
+ *** Comparaison de p1.txt avec dic_Philo
+ Les mots juge femme esprit seul perdu homme généraux réuni Dieu évidente pensé liberté paix Prophétie Prophète histoire raison Psaumes Daniel Esdras Esther époque Néhémie 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p1.txt présents dans le dic_Philo  est 23  ===> 
+		le pourcentage par raport au dic_Philo = 27.3809523809524 %
+
+ *** Comparaison de p1.txt avec dic_Philo
+ Les mots juge femme esprit seul perdu homme généraux réuni Dieu évidente pensé liberté paix Prophétie Prophète histoire raison Psaumes Daniel Esdras Esther époque Néhémie 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p1.txt présents dans le dic_Philo  est 23  ===> 
+		le pourcentage par raport au dic_Philo = 27.3809523809524 %
+
+ *** Comparaison de p1.txt avec dic_Philo
+ Les mots juge femme esprit seul perdu homme généraux réuni Dieu évidente pensé liberté paix Prophétie Prophète histoire raison Psaumes Daniel Esdras Esther époque Néhémie 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p1.txt présents dans le dic_Philo  est 23  ===> 
+		le pourcentage par raport au dic_Philo = 27.3809523809524 %
+
+=============================================
+		Traitement du fichier p2.txt :
+
+=============================================
+Le mot 'IE' est present 15 fois
+Le mot 'homme' est present 118 fois
+Le mot 'positif' est present 4 fois
+Le mot 'raison' est present 9 fois
+Le mot 'existence' est present 38 fois
+Le mot 'femme' est present 2 fois
+Le mot 'seul' est present 36 fois
+Le mot 'Dieu' est present 11 fois
+Le mot 'prochain' est present 3 fois
+Le mot 'pêche' est present 4 fois
+Le mot 'pensé' est present 3 fois
+Le mot 'nations' est present 2 fois
+Le mot 'finale' est present 1 fois
+Le mot '' est present 1728 fois
+Le mot 'Scolie' est present 33 fois
+Le mot 'perdu' est present 1 fois
+Le mot 'évidente' est present 3 fois
+Le mot 'meilleur' est present 5 fois
+Le mot 'image' est present 5 fois
+Le mot 'distinct' est present 3 fois
+Le mot 'jour' est present 11 fois
+Le mot 'veines' est present 1 fois
+Le mot 'perfection' est present 5 fois
+Le mot 'Philosophe' est present 1 fois
+Le mot 'juge' est present 8 fois
+Le mot 'nature' est present 46 fois
+Le mot 'Voi' est present 10 fois
+Le mot 'command' est present 4 fois
+Le mot 'port' est present 28 fois
+Le mot 'déterminée' est present 5 fois
+Le mot 'antérieur' est present 3 fois
+Le mot 'Corps' est present 13 fois
+
+
+ ***  Comparaison de p2.txt avec dic_Sport
+ Les mots meilleur prochain nations finale 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p2.txt présents dans le dic_Sport  est 4  ===>
+		le pourcentage par raport au dic_Sport = 6.66666666666667 %
+
+ *** Comparaison de p2.txt avec dic_Anatomie
+ Les mots veines antérieur homme femme 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p2.txt présents dans le dic_Anatomie  est 4  ===> 
+		le pourcentage par raport au dic_Anatomie = 4.08163265306122 %
+
+ *** Comparaison de p2.txt avec dic_Philo
+ Les mots Corps juge femme distinct seul perdu homme Voi existence existence Dieu déterminée perfection évidente Scolie pensé positif raison Philosophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p2.txt présents dans le dic_Philo  est 19  ===> 
+		le pourcentage par raport au dic_Philo = 22.6190476190476 %
+
+ *** Comparaison de p2.txt avec dic_Philo
+ Les mots Corps juge femme distinct seul perdu homme Voi existence existence Dieu déterminée perfection évidente Scolie pensé positif raison Philosophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p2.txt présents dans le dic_Philo  est 19  ===> 
+		le pourcentage par raport au dic_Philo = 22.6190476190476 %
+
+ *** Comparaison de p2.txt avec dic_Philo
+ Les mots Corps juge femme distinct seul perdu homme Voi existence existence Dieu déterminée perfection évidente Scolie pensé positif raison Philosophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p2.txt présents dans le dic_Philo  est 19  ===> 
+		le pourcentage par raport au dic_Philo = 22.6190476190476 %
+
+=============================================
+		Traitement du fichier p3.txt :
+
+=============================================
+Le mot 'application' est present 1 fois
+Le mot 'homme' est present 4 fois
+Le mot 'port' est present 1 fois
+Le mot 'nature' est present 2 fois
+Le mot 'esprit' est present 4 fois
+Le mot '' est present 36 fois
+Le mot 'existence' est present 2 fois
+Le mot 'seul' est present 1 fois
+Le mot 'raison' est present 4 fois
+Le mot 'perception' est present 2 fois
+Le mot 'distinct' est present 2 fois
+Le mot 'pensé' est present 1 fois
+Le mot 'source' est present 1 fois
+
+
+ ***  Comparaison de p3.txt avec dic_Sport
+ Les mots  
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p3.txt présents dans le dic_Sport  est 0  ===>
+		le pourcentage par raport au dic_Sport = 0 %
+
+ *** Comparaison de p3.txt avec dic_Anatomie
+ Les mots homme 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p3.txt présents dans le dic_Anatomie  est 1  ===> 
+		le pourcentage par raport au dic_Anatomie = 1.02040816326531 %
+
+ *** Comparaison de p3.txt avec dic_Philo
+ Les mots perception distinct esprit seul homme existence existence pensé raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p3.txt présents dans le dic_Philo  est 9  ===> 
+		le pourcentage par raport au dic_Philo = 10.7142857142857 %
+
+ *** Comparaison de p3.txt avec dic_Philo
+ Les mots perception distinct esprit seul homme existence existence pensé raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p3.txt présents dans le dic_Philo  est 9  ===> 
+		le pourcentage par raport au dic_Philo = 10.7142857142857 %
+
+ *** Comparaison de p3.txt avec dic_Philo
+ Les mots perception distinct esprit seul homme existence existence pensé raison 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p3.txt présents dans le dic_Philo  est 9  ===> 
+		le pourcentage par raport au dic_Philo = 10.7142857142857 %
+
+=============================================
+		Traitement du fichier p4.txt :
+
+=============================================
+Le mot 'esclave' est present 1 fois
+Le mot 'tort' est present 1 fois
+Le mot 'voûte' est present 1 fois
+Le mot 'fruit' est present 3 fois
+Le mot 'Dieu' est present 9 fois
+Le mot 'jeune' est present 2 fois
+Le mot 'époque' est present 1 fois
+Le mot 'orale' est present 1 fois
+Le mot 'perdu' est present 1 fois
+Le mot 'port' est present 9 fois
+Le mot '' est present 612 fois
+Le mot 'jour' est present 9 fois
+Le mot 'gagner' est present 1 fois
+Le mot 'image' est present 2 fois
+Le mot 'jardin' est present 5 fois
+Le mot 'fleur' est present 2 fois
+Le mot 'qualité' est present 4 fois
+Le mot 'stupidité' est present 1 fois
+Le mot 'meilleur' est present 1 fois
+Le mot 'femme' est present 6 fois
+Le mot 'forgé' est present 1 fois
+Le mot 'seul' est present 11 fois
+Le mot 'colonne' est present 2 fois
+Le mot 'raison' est present 2 fois
+Le mot 'jeu' est present 2 fois
+Le mot 'graine' est present 4 fois
+Le mot 'gif' est present 1 fois
+Le mot 'homme' est present 30 fois
+Le mot 'paix' est present 2 fois
+Le mot 'Voi' est present 1 fois
+
+
+ ***  Comparaison de p4.txt avec dic_Sport
+ Les mots meilleur gagner jeu tort 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p4.txt présents dans le dic_Sport  est 4  ===>
+		le pourcentage par raport au dic_Sport = 6.66666666666667 %
+
+ *** Comparaison de p4.txt avec dic_Anatomie
+ Les mots orale colonne homme femme voûte 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p4.txt présents dans le dic_Anatomie  est 5  ===> 
+		le pourcentage par raport au dic_Anatomie = 5.10204081632653 %
+
+ *** Comparaison de p4.txt avec dic_Philo
+ Les mots jeune femme esclave seul perdu homme stupidité Voi Dieu forgé paix raison époque 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p4.txt présents dans le dic_Philo  est 13  ===> 
+		le pourcentage par raport au dic_Philo = 15.4761904761905 %
+
+ *** Comparaison de p4.txt avec dic_Philo
+ Les mots jeune femme esclave seul perdu homme stupidité Voi Dieu forgé paix raison époque 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p4.txt présents dans le dic_Philo  est 13  ===> 
+		le pourcentage par raport au dic_Philo = 15.4761904761905 %
+
+ *** Comparaison de p4.txt avec dic_Philo
+ Les mots jeune femme esclave seul perdu homme stupidité Voi Dieu forgé paix raison époque 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p4.txt présents dans le dic_Philo  est 13  ===> 
+		le pourcentage par raport au dic_Philo = 15.4761904761905 %
+
+=============================================
+		Traitement du fichier p5.txt :
+
+=============================================
+Le mot 'esprit' est present 4 fois
+Le mot '' est present 644 fois
+Le mot 'port' est present 14 fois
+Le mot 'perdu' est present 1 fois
+Le mot 'vaisseau' est present 1 fois
+Le mot 'victoire' est present 10 fois
+Le mot 'jeune' est present 1 fois
+Le mot 'prochain' est present 2 fois
+Le mot 'fruit' est present 4 fois
+Le mot 'Dieu' est present 7 fois
+Le mot 'site' est present 2 fois
+Le mot 'liberté' est present 4 fois
+Le mot 'paix' est present 2 fois
+Le mot 'Voi' est present 3 fois
+Le mot 'juge' est present 1 fois
+Le mot 'système' est present 1 fois
+Le mot 'homme' est present 12 fois
+Le mot 'mûre' est present 1 fois
+Le mot 'graine' est present 20 fois
+Le mot 'défaite' est present 1 fois
+Le mot 'jeu' est present 8 fois
+Le mot 'seul' est present 9 fois
+Le mot 'femme' est present 4 fois
+Le mot 'figue' est present 1 fois
+Le mot 'Lacté' est present 1 fois
+Le mot 'fleur' est present 7 fois
+Le mot 'jardin' est present 7 fois
+Le mot 'jour' est present 4 fois
+Le mot 'gagner' est present 1 fois
+Le mot 'perfection' est present 2 fois
+
+
+ ***  Comparaison de p5.txt avec dic_Sport
+ Les mots victoire victoire gagner jeu défaite prochain 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p5.txt présents dans le dic_Sport  est 6  ===>
+		le pourcentage par raport au dic_Sport = 10 %
+
+ *** Comparaison de p5.txt avec dic_Anatomie
+ Les mots vaisseau homme femme système 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p5.txt présents dans le dic_Anatomie  est 4  ===> 
+		le pourcentage par raport au dic_Anatomie = 4.08163265306122 %
+
+ *** Comparaison de p5.txt avec dic_Philo
+ Les mots juge jeune femme esprit seul perdu homme Lacté Voi Dieu perfection liberté paix 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p5.txt présents dans le dic_Philo  est 13  ===> 
+		le pourcentage par raport au dic_Philo = 15.4761904761905 %
+
+ *** Comparaison de p5.txt avec dic_Philo
+ Les mots juge jeune femme esprit seul perdu homme Lacté Voi Dieu perfection liberté paix 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p5.txt présents dans le dic_Philo  est 13  ===> 
+		le pourcentage par raport au dic_Philo = 15.4761904761905 %
+
+ *** Comparaison de p5.txt avec dic_Philo
+ Les mots juge jeune femme esprit seul perdu homme Lacté Voi Dieu perfection liberté paix 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p5.txt présents dans le dic_Philo  est 13  ===> 
+		le pourcentage par raport au dic_Philo = 15.4761904761905 %
+
+=============================================
+		Traitement du fichier p6.txt :
+
+=============================================
+Le mot 'philosopher' est present 1 fois
+Le mot 'substance' est present 22 fois
+Le mot 'lumineux' est present 3 fois
+Le mot 'potager' est present 3 fois
+Le mot 'image' est present 87 fois
+Le mot 'fleur' est present 70 fois
+Le mot 'battant' est present 2 fois
+Le mot 'vocation' est present 7 fois
+Le mot 'nerfs' est present 1 fois
+Le mot 'maudite' est present 1 fois
+Le mot 'figue' est present 2 fois
+Le mot 'paroi' est present 2 fois
+Le mot 'ballon' est present 1 fois
+Le mot 'gif' est present 3 fois
+Le mot 'Voi' est present 50 fois
+Le mot 'juge' est present 71 fois
+Le mot 'nature' est present 28 fois
+Le mot 'command' est present 6 fois
+Le mot 'crime' est present 11 fois
+Le mot 'port' est present 398 fois
+Le mot 'perception' est present 1 fois
+Le mot 'graine' est present 194 fois
+Le mot 'confusion' est present 3 fois
+Le mot 'esclave' est present 33 fois
+Le mot 'source' est present 22 fois
+Le mot 'prochain' est present 8 fois
+Le mot 'Dieu' est present 199 fois
+Le mot 'fruit' est present 89 fois
+Le mot 'Soleil' est present 1 fois
+Le mot 'minute' est present 7 fois
+Le mot 'perfection' est present 47 fois
+Le mot 'gagner' est present 20 fois
+Le mot 'jour' est present 307 fois
+Le mot 'machine' est present 3 fois
+Le mot 'meilleur' est present 14 fois
+Le mot 'urine' est present 2 fois
+Le mot 'vieillesse' est present 5 fois
+Le mot 'jeu' est present 115 fois
+Le mot 'festin' est present 3 fois
+Le mot 'joueur' est present 8 fois
+Le mot 'hauteur' est present 4 fois
+Le mot 'saison' est present 8 fois
+Le mot 'victoire' est present 126 fois
+Le mot 'multitude' est present 6 fois
+Le mot 'vaisseau' est present 4 fois
+Le mot 'politique' est present 1 fois
+Le mot 'adversaires' est present 3 fois
+Le mot 'jardin' est present 44 fois
+Le mot 'histoire' est present 22 fois
+Le mot 'seul' est present 331 fois
+Le mot 'femme' est present 240 fois
+Le mot 'existence' est present 28 fois
+Le mot 'plantation' est present 4 fois
+Le mot 'positif' est present 1 fois
+Le mot 'colonne' est present 12 fois
+Le mot 'raison' est present 113 fois
+Le mot 'ampoules' est present 4 fois
+Le mot 'paix' est present 50 fois
+Le mot 'homme' est present 1210 fois
+Le mot 'fibre' est present 2 fois
+Le mot 'site' est present 44 fois
+Le mot 'finale' est present 1 fois
+Le mot 'nations' est present 1 fois
+Le mot 'maladroites ' est present 1 fois
+Le mot 'tort' est present 13 fois
+Le mot 'jeune' est present 43 fois
+Le mot 'obstacle' est present 4 fois
+Le mot 'perdu' est present 56 fois
+Le mot 'orale' est present 8 fois
+Le mot '' est present 23604 fois
+Le mot 'esprit' est present 78 fois
+
+
+ ***  Comparaison de p6.txt avec dic_Sport
+ Les mots victoire meilleur ballon victoire gagner minute histoire jeu tort maladroites  prochain battant joueur hauteur adversaires nations finale 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p6.txt présents dans le dic_Sport  est 17  ===>
+		le pourcentage par raport au dic_Sport = 28.3333333333333 %
+
+ *** Comparaison de p6.txt avec dic_Anatomie
+ Les mots substance fibre orale vaisseau urine colonne ampoules urine paroi homme femme hauteur nerfs 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p6.txt présents dans le dic_Anatomie  est 13  ===> 
+		le pourcentage par raport au dic_Anatomie = 13.265306122449 %
+
+ *** Comparaison de p6.txt avec dic_Philo
+ Les mots philosopher vieillesse Soleil maudite festin juge jeune crime femme obstacle perception confusion esprit esclave seul perdu homme Voi existence existence substance Dieu perfection positif politique paix vocation histoire raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p6.txt présents dans le dic_Philo  est 30  ===> 
+		le pourcentage par raport au dic_Philo = 35.7142857142857 %
+
+ *** Comparaison de p6.txt avec dic_Philo
+ Les mots philosopher vieillesse Soleil maudite festin juge jeune crime femme obstacle perception confusion esprit esclave seul perdu homme Voi existence existence substance Dieu perfection positif politique paix vocation histoire raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p6.txt présents dans le dic_Philo  est 30  ===> 
+		le pourcentage par raport au dic_Philo = 35.7142857142857 %
+
+ *** Comparaison de p6.txt avec dic_Philo
+ Les mots philosopher vieillesse Soleil maudite festin juge jeune crime femme obstacle perception confusion esprit esclave seul perdu homme Voi existence existence substance Dieu perfection positif politique paix vocation histoire raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p6.txt présents dans le dic_Philo  est 30  ===> 
+		le pourcentage par raport au dic_Philo = 35.7142857142857 %
+
+=============================================
+		Traitement du fichier p7.txt :
+
+=============================================
+Le mot 'festin' est present 1 fois
+Le mot 'Dialectique' est present 1 fois
+Le mot 'multitude' est present 1 fois
+Le mot 'Cogito' est present 1 fois
+Le mot 'Corps' est present 1 fois
+Le mot 'perfection' est present 1 fois
+Le mot 'distinct' est present 1 fois
+Le mot 'Lacté' est present 1 fois
+Le mot 'TRAITE' est present 1 fois
+Le mot 'forgé' est present 1 fois
+Le mot 'Hébreux ' est present 1 fois
+Le mot 'infinité' est present 1 fois
+Le mot 'jeu' est present 1 fois
+Le mot 'ÉTHIQUE' est present 1 fois
+Le mot 'vieillesse' est present 1 fois
+Le mot 'Apôtres' est present 1 fois
+Le mot 'Transcendantal' est present 1 fois
+Le mot 'Déterminisme' est present 1 fois
+Le mot 'Esdras' est present 1 fois
+Le mot 'Psaumes' est present 1 fois
+Le mot 'pensé' est present 1 fois
+Le mot 'Métaphysique' est present 1 fois
+Le mot 'généraux' est present 1 fois
+Le mot 'Dasein' est present 1 fois
+Le mot 'Phénoménologie' est present 1 fois
+Le mot 'évidente' est present 1 fois
+Le mot 'jeune' est present 1 fois
+Le mot 'Prophète' est present 1 fois
+Le mot 'obstacle' est present 1 fois
+Le mot 'Scolie' est present 1 fois
+Le mot 'mérité' est present 1 fois
+Le mot 'perdu' est present 1 fois
+Le mot 'Conatus' est present 1 fois
+Le mot '' est present 336 fois
+Le mot 'esprit' est present 1 fois
+Le mot 'prophétique' est present 1 fois
+Le mot 'politique' est present 1 fois
+Le mot 'réuni' est present 1 fois
+Le mot 'Ontologie ' est present 1 fois
+Le mot 'histoire' est present 2 fois
+Le mot 'Prophétie' est present 1 fois
+Le mot 'femme' est present 2 fois
+Le mot 'existence' est present 4 fois
+Le mot 'Monade ' est present 1 fois
+Le mot 'seul' est present 1 fois
+Le mot 'positif' est present 1 fois
+Le mot 'raison' est present 1 fois
+Le mot 'homme' est present 2 fois
+Le mot 'Empirisme' est present 1 fois
+Le mot 'Aliénation ' est present 1 fois
+Le mot 'paix' est present 1 fois
+Le mot 'Contrat social' est present 1 fois
+Le mot 'Daniel' est present 1 fois
+Le mot 'Inconscient ' est present 1 fois
+Le mot 'Esther' est present 1 fois
+Le mot 'Traité' est present 1 fois
+Le mot 'déterminée' est present 1 fois
+Le mot 'Spinoza' est present 1 fois
+Le mot 'crime' est present 1 fois
+Le mot 'Néhémie' est present 1 fois
+Le mot 'méritée. ' est present 1 fois
+Le mot 'philosopher' est present 1 fois
+Le mot 'substance' est present 2 fois
+Le mot 'déserté' est present 1 fois
+Le mot 'vocation' est present 1 fois
+Le mot 'Scepticisme' est present 1 fois
+Le mot 'Idéalisme' est present 1 fois
+Le mot 'dénombrer' est present 1 fois
+Le mot 'maudite' est present 1 fois
+Le mot 'catastrophe' est present 2 fois
+Le mot 'juge' est present 1 fois
+Le mot 'Philosophe' est present 1 fois
+Le mot 'Voi' est present 1 fois
+Le mot 'Miracles' est present 1 fois
+Le mot 'liberté' est present 1 fois
+Le mot 'esclave' est present 1 fois
+Le mot 'Dieu' est present 1 fois
+Le mot 'Soleil' est present 1 fois
+Le mot 'époque' est present 1 fois
+Le mot 'indéfinie' est present 1 fois
+Le mot 'Éthique' est present 1 fois
+Le mot 'stupidité' est present 1 fois
+Le mot 'perception' est present 1 fois
+Le mot 'Théologico' est present 1 fois
+Le mot 'Transcendance' est present 1 fois
+Le mot 'confusion' est present 1 fois
+
+
+ ***  Comparaison de p7.txt avec dic_Sport
+ Les mots catastrophe histoire jeu mérité 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p7.txt présents dans le dic_Sport  est 4  ===>
+		le pourcentage par raport au dic_Sport = 6.66666666666667 %
+
+ *** Comparaison de p7.txt avec dic_Anatomie
+ Les mots substance homme femme 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p7.txt présents dans le dic_Anatomie  est 3  ===> 
+		le pourcentage par raport au dic_Anatomie = 3.06122448979592 %
+
+ *** Comparaison de p7.txt avec dic_Philo
+ Les mots philosopher Spinoza vieillesse Aliénation  Cogito Conatus Contrat social Corps Dasein Déterminisme Empirisme Éthique Idéalisme Inconscient  Métaphysique Monade  Ontologie  Soleil maudite festin déserté juge jeune crime femme TRAITE obstacle perception distinct confusion esprit esclave seul perdu dénombrer homme généraux stupidité réuni Lacté Voi ÉTHIQUE existence Phénoménologie Dialectique Scepticisme Transcendance Transcendantal existence substance Dieu indéfinie déterminée méritée.  perfection infinité évidente Scolie forgé pensé positif Traité Théologico politique liberté catastrophe paix Prophétie Prophète vocation Hébreux  prophétique histoire raison Miracles Apôtres multitude Philosophe Psaumes Daniel Esdras Esther époque Néhémie 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p7.txt présents dans le dic_Philo  est 84  ===> 
+		le pourcentage par raport au dic_Philo = 100 %
+
+ *** Comparaison de p7.txt avec dic_Philo
+ Les mots philosopher Spinoza vieillesse Aliénation  Cogito Conatus Contrat social Corps Dasein Déterminisme Empirisme Éthique Idéalisme Inconscient  Métaphysique Monade  Ontologie  Soleil maudite festin déserté juge jeune crime femme TRAITE obstacle perception distinct confusion esprit esclave seul perdu dénombrer homme généraux stupidité réuni Lacté Voi ÉTHIQUE existence Phénoménologie Dialectique Scepticisme Transcendance Transcendantal existence substance Dieu indéfinie déterminée méritée.  perfection infinité évidente Scolie forgé pensé positif Traité Théologico politique liberté catastrophe paix Prophétie Prophète vocation Hébreux  prophétique histoire raison Miracles Apôtres multitude Philosophe Psaumes Daniel Esdras Esther époque Néhémie 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p7.txt présents dans le dic_Philo  est 84  ===> 
+		le pourcentage par raport au dic_Philo = 100 %
+
+ *** Comparaison de p7.txt avec dic_Philo
+ Les mots philosopher Spinoza vieillesse Aliénation  Cogito Conatus Contrat social Corps Dasein Déterminisme Empirisme Éthique Idéalisme Inconscient  Métaphysique Monade  Ontologie  Soleil maudite festin déserté juge jeune crime femme TRAITE obstacle perception distinct confusion esprit esclave seul perdu dénombrer homme généraux stupidité réuni Lacté Voi ÉTHIQUE existence Phénoménologie Dialectique Scepticisme Transcendance Transcendantal existence substance Dieu indéfinie déterminée méritée.  perfection infinité évidente Scolie forgé pensé positif Traité Théologico politique liberté catastrophe paix Prophétie Prophète vocation Hébreux  prophétique histoire raison Miracles Apôtres multitude Philosophe Psaumes Daniel Esdras Esther époque Néhémie 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p7.txt présents dans le dic_Philo  est 84  ===> 
+		le pourcentage par raport au dic_Philo = 100 %
+
+=============================================
+		Traitement du fichier p8.txt :
+
+=============================================
+Le mot 'perdu' est present 2 fois
+Le mot 'Scolie' est present 173 fois
+Le mot '' est present 10100 fois
+Le mot 'esprit' est present 10 fois
+Le mot 'jeune' est present 2 fois
+Le mot 'obstacle' est present 3 fois
+Le mot 'source' est present 1 fois
+Le mot 'prochain' est present 9 fois
+Le mot 'fruit' est present 2 fois
+Le mot 'Dieu' est present 198 fois
+Le mot 'esclave' est present 1 fois
+Le mot 'Math' est present 2 fois
+Le mot 'site' est present 4 fois
+Le mot 'finale' est present 3 fois
+Le mot 'nations' est present 7 fois
+Le mot 'paix' est present 1 fois
+Le mot 'confusion' est present 4 fois
+Le mot 'homme' est present 420 fois
+Le mot 'seul' est present 224 fois
+Le mot 'femme' est present 16 fois
+Le mot 'existence' est present 198 fois
+Le mot 'positif' est present 10 fois
+Le mot 'perception' est present 4 fois
+Le mot 'raison' est present 66 fois
+Le mot 'histoire' est present 2 fois
+Le mot 'IE' est present 141 fois
+Le mot 'adversaires' est present 2 fois
+Le mot 'port' est present 146 fois
+Le mot 'victoire' est present 2 fois
+Le mot 'Corps' est present 148 fois
+Le mot 'hauteur' est present 2 fois
+Le mot 'command' est present 23 fois
+Le mot 'jeu' est present 3 fois
+Le mot 'Voi' est present 20 fois
+Le mot 'nature' est present 207 fois
+Le mot 'Philosophe' est present 6 fois
+Le mot 'juge' est present 28 fois
+Le mot 'distinct' est present 50 fois
+Le mot 'image' est present 40 fois
+Le mot 'meilleur' est present 11 fois
+Le mot 'Scepticisme' est present 1 fois
+Le mot 'nerfs' est present 2 fois
+Le mot 'veines' est present 1 fois
+Le mot 'perfection' est present 37 fois
+Le mot 'gagner' est present 2 fois
+Le mot 'philosopher' est present 1 fois
+Le mot 'substance' est present 104 fois
+Le mot 'jour' est present 38 fois
+
+
+ ***  Comparaison de p8.txt avec dic_Sport
+ Les mots victoire meilleur victoire gagner histoire jeu prochain hauteur adversaires nations finale 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p8.txt présents dans le dic_Sport  est 11  ===>
+		le pourcentage par raport au dic_Sport = 18.3333333333333 %
+
+ *** Comparaison de p8.txt avec dic_Anatomie
+ Les mots substance veines homme femme hauteur nerfs 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p8.txt présents dans le dic_Anatomie  est 6  ===> 
+		le pourcentage par raport au dic_Anatomie = 6.12244897959184 %
+
+ *** Comparaison de p8.txt avec dic_Philo
+ Les mots philosopher Corps juge jeune femme obstacle perception distinct confusion esprit esclave seul perdu homme Voi existence Scepticisme existence substance Dieu perfection Scolie positif paix histoire raison Philosophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p8.txt présents dans le dic_Philo  est 27  ===> 
+		le pourcentage par raport au dic_Philo = 32.1428571428571 %
+
+ *** Comparaison de p8.txt avec dic_Philo
+ Les mots philosopher Corps juge jeune femme obstacle perception distinct confusion esprit esclave seul perdu homme Voi existence Scepticisme existence substance Dieu perfection Scolie positif paix histoire raison Philosophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p8.txt présents dans le dic_Philo  est 27  ===> 
+		le pourcentage par raport au dic_Philo = 32.1428571428571 %
+
+ *** Comparaison de p8.txt avec dic_Philo
+ Les mots philosopher Corps juge jeune femme obstacle perception distinct confusion esprit esclave seul perdu homme Voi existence Scepticisme existence substance Dieu perfection Scolie positif paix histoire raison Philosophe 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p8.txt présents dans le dic_Philo  est 27  ===> 
+		le pourcentage par raport au dic_Philo = 32.1428571428571 %
+
+=============================================
+		Traitement du fichier p9.txt :
+
+=============================================
+Le mot 'port' est present 19 fois
+Le mot 'Spinoza' est present 3 fois
+Le mot 'multitude' est present 1 fois
+Le mot 'http' est present 1 fois
+Le mot 'application' est present 1 fois
+Le mot 'nature' est present 24 fois
+Le mot 'Voi' est present 4 fois
+Le mot 'TRAITE' est present 1 fois
+Le mot 'meilleur' est present 7 fois
+Le mot 'image' est present 2 fois
+Le mot 'distinct' est present 13 fois
+Le mot 'jour' est present 9 fois
+Le mot 'gagner' est present 2 fois
+Le mot 'perfection' est present 8 fois
+Le mot '' est present 700 fois
+Le mot 'esprit' est present 23 fois
+Le mot 'orale' est present 1 fois
+Le mot 'obstacle' est present 1 fois
+Le mot 'Dieu' est present 6 fois
+Le mot 'fruit' est present 1 fois
+Le mot 'prochain' est present 5 fois
+Le mot 'source' est present 3 fois
+Le mot 'nations' est present 1 fois
+Le mot 'site' est present 1 fois
+Le mot 'Math' est present 1 fois
+Le mot 'homme' est present 28 fois
+Le mot 'confusion' est present 3 fois
+Le mot 'positif' est present 1 fois
+Le mot 'raison' est present 12 fois
+Le mot 'perception' est present 19 fois
+Le mot 'existence' est present 20 fois
+Le mot 'seul' est present 29 fois
+Le mot 'histoire' est present 2 fois
+Le mot 'adversaires' est present 1 fois
+Le mot 'IE' est present 1 fois
+
+
+ ***  Comparaison de p9.txt avec dic_Sport
+ Les mots meilleur gagner histoire prochain adversaires nations 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p9.txt présents dans le dic_Sport  est 6  ===>
+		le pourcentage par raport au dic_Sport = 10 %
+
+ *** Comparaison de p9.txt avec dic_Anatomie
+ Les mots orale homme 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p9.txt présents dans le dic_Anatomie  est 2  ===> 
+		le pourcentage par raport au dic_Anatomie = 2.04081632653061 %
+
+ *** Comparaison de p9.txt avec dic_Philo
+ Les mots Spinoza TRAITE obstacle perception distinct confusion esprit seul homme Voi existence existence Dieu perfection positif histoire raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p9.txt présents dans le dic_Philo  est 18  ===> 
+		le pourcentage par raport au dic_Philo = 21.4285714285714 %
+
+ *** Comparaison de p9.txt avec dic_Philo
+ Les mots Spinoza TRAITE obstacle perception distinct confusion esprit seul homme Voi existence existence Dieu perfection positif histoire raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p9.txt présents dans le dic_Philo  est 18  ===> 
+		le pourcentage par raport au dic_Philo = 21.4285714285714 %
+
+ *** Comparaison de p9.txt avec dic_Philo
+ Les mots Spinoza TRAITE obstacle perception distinct confusion esprit seul homme Voi existence existence Dieu perfection positif histoire raison multitude 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p9.txt présents dans le dic_Philo  est 18  ===> 
+		le pourcentage par raport au dic_Philo = 21.4285714285714 %
+
+=============================================
+		Traitement du fichier p10.txt :
+
+=============================================
+Le mot 'adversaires' est present 5 fois
+Le mot 'politique' est present 13 fois
+Le mot 'jardin' est present 1 fois
+Le mot 'histoire' est present 130 fois
+Le mot 'raison' est present 142 fois
+Le mot 'perception' est present 6 fois
+Le mot 'technique' est present 1 fois
+Le mot 'femme' est present 16 fois
+Le mot 'existence' est present 38 fois
+Le mot 'seul' est present 302 fois
+Le mot 'homme' est present 466 fois
+Le mot 'paix' est present 35 fois
+Le mot 'confusion' est present 4 fois
+Le mot 'nations' est present 31 fois
+Le mot 'finale' est present 4 fois
+Le mot 'site' est present 12 fois
+Le mot 'esclave' est present 6 fois
+Le mot 'Dieu' est present 287 fois
+Le mot 'fruit' est present 11 fois
+Le mot 'tort' est present 10 fois
+Le mot 'prochain' est present 20 fois
+Le mot 'Esdras' est present 23 fois
+Le mot 'Psaumes' est present 5 fois
+Le mot 'source' est present 5 fois
+Le mot 'jeune' est present 3 fois
+Le mot 'Soleil' est present 1 fois
+Le mot '' est present 6216 fois
+Le mot 'esprit' est present 37 fois
+Le mot 'perdu' est present 9 fois
+Le mot 'orale' est present 14 fois
+Le mot 'philosopher' est present 5 fois
+Le mot 'substance' est present 2 fois
+Le mot 'gagner' est present 4 fois
+Le mot 'jour' est present 81 fois
+Le mot 'perfection' est present 9 fois
+Le mot 'vocation' est present 9 fois
+Le mot 'meilleur' est present 19 fois
+Le mot 'battant' est present 1 fois
+Le mot 'fleur' est present 3 fois
+Le mot 'image' est present 19 fois
+Le mot 'distinct' est present 27 fois
+Le mot 'nature' est present 146 fois
+Le mot 'application' est present 3 fois
+Le mot 'Philosophe' est present 13 fois
+Le mot 'juge' est present 104 fois
+Le mot 'Voi' est present 21 fois
+Le mot 'Miracles' est present 2 fois
+Le mot 'jeu' est present 7 fois
+Le mot 'vieillesse' est present 1 fois
+Le mot 'prolongation' est present 1 fois
+Le mot 'Daniel' est present 12 fois
+Le mot 'command' est present 101 fois
+Le mot 'vs' est present 41 fois
+Le mot 'hauteur' est present 2 fois
+Le mot 'http' est present 1 fois
+Le mot 'festin' est present 1 fois
+Le mot 'multitude' est present 7 fois
+Le mot 'Esther' est present 4 fois
+Le mot 'victoire' est present 14 fois
+Le mot 'port' est present 152 fois
+Le mot 'crime' est present 16 fois
+Le mot 'Spinoza' est present 3 fois
+
+
+ ***  Comparaison de p10.txt avec dic_Sport
+ Les mots victoire prolongation meilleur victoire gagner histoire jeu tort prochain battant vs hauteur adversaires nations finale 
+sont presents dans dic_Sport   .
+
+Le nombre de mots du fichier p10.txt présents dans le dic_Sport  est 15  ===>
+		le pourcentage par raport au dic_Sport = 25 %
+
+ *** Comparaison de p10.txt avec dic_Anatomie
+ Les mots substance orale homme femme hauteur 
+sont presents dans dic_Anatomie .
+
+Le nombre de mots du fichier p10.txt présents dans le dic_Anatomie  est 5  ===> 
+		le pourcentage par raport au dic_Anatomie = 5.10204081632653 %
+
+ *** Comparaison de p10.txt avec dic_Philo
+ Les mots philosopher Spinoza vieillesse Soleil festin juge jeune crime femme perception distinct confusion esprit esclave seul perdu homme Voi existence existence substance Dieu perfection politique paix vocation histoire raison Miracles multitude Philosophe Psaumes Daniel Esdras Esther 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p10.txt présents dans le dic_Philo  est 35  ===> 
+		le pourcentage par raport au dic_Philo = 41.6666666666667 %
+
+ *** Comparaison de p10.txt avec dic_Philo
+ Les mots philosopher Spinoza vieillesse Soleil festin juge jeune crime femme perception distinct confusion esprit esclave seul perdu homme Voi existence existence substance Dieu perfection politique paix vocation histoire raison Miracles multitude Philosophe Psaumes Daniel Esdras Esther 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p10.txt présents dans le dic_Philo  est 35  ===> 
+		le pourcentage par raport au dic_Philo = 41.6666666666667 %
+
+ *** Comparaison de p10.txt avec dic_Philo
+ Les mots philosopher Spinoza vieillesse Soleil festin juge jeune crime femme perception distinct confusion esprit esclave seul perdu homme Voi existence existence substance Dieu perfection politique paix vocation histoire raison Miracles multitude Philosophe Psaumes Daniel Esdras Esther 
+sont presents dans dic_Philo   .
+
+Le nombre de mots du fichier p10.txt présents dans le dic_Philo  est 35  ===> 
+		le pourcentage par raport au dic_Philo = 41.6666666666667 %
