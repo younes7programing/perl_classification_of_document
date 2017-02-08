@@ -6,6 +6,7 @@ et calculer la distance entre chaque dic (vect de mots) et fichier text(vecteur 
  le dossier dico :contient les dictionnaires
  
  poue executer le programme ;
+ 
  1-extract classification.rar,document.rar,document
  
  2-change the path of your folder in this line 
