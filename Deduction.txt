@@ -1,20 +1,9 @@
 
 
 Deduction :
-a1.txt est 34.69 a 34.69%, Sport a 1.00% et Philo a 7.14% et Informatique a 7.14 et Anatomie a 34.69 
+a1.txt est simlilaire:   34.69% par rapport a Anatomie,  1.00% par rapport a  Sport et  7.14% par rapport a Philo et  7.14 par rapport a Informatique  et  34.69 par rapport a Anatomie a 
 
- 	==> 	a1.txt  est classe parmis les doc **  Anatomie  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-a2.txt est 25.51 a 25.51%, Sport a 1.00% et Philo a 1.19% et Informatique a 1.19 et Anatomie a 25.51 
-
- 	==> 	a2.txt  est classe parmis les doc **  Anatomie  **
+==> 	a1.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -23,20 +12,9 @@ a2.txt est 25.51 a 25.51%, Sport a 1.00% et Philo a 1.19% et Informatique a 1.19
 
 
 Deduction :
-a3.txt est 21.43 a 21.43%, Sport a 1.00% et Philo a 7.14% et Informatique a 7.14 et Anatomie a 21.43 
+a2.txt est simlilaire:   25.51% par rapport a Anatomie,  1.00% par rapport a  Sport et  1.19% par rapport a Philo et  1.19 par rapport a Informatique  et  25.51 par rapport a Anatomie a 
 
- 	==> 	a3.txt  est classe parmis les doc **  Anatomie  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-a4.txt est 25.51 a 25.51%, Sport a 1.00% et Philo a 2.38% et Informatique a 2.38 et Anatomie a 25.51 
-
- 	==> 	a4.txt  est classe parmis les doc **  Anatomie  **
+==> 	a2.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -45,20 +23,9 @@ a4.txt est 25.51 a 25.51%, Sport a 1.00% et Philo a 2.38% et Informatique a 2.38
 
 
 Deduction :
-a5.txt est 31.63 a 31.63%, Sport a 1.00% et Philo a 4.76% et Informatique a 4.76 et Anatomie a 31.63 
+a3.txt est simlilaire:   21.43% par rapport a Anatomie,  1.00% par rapport a  Sport et  7.14% par rapport a Philo et  7.14 par rapport a Informatique  et  21.43 par rapport a Anatomie a 
 
- 	==> 	a5.txt  est classe parmis les doc **  Anatomie  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-a6.txt est 29.59 a 29.59%, Sport a 1.00% et Philo a 1.19% et Informatique a 1.19 et Anatomie a 29.59 
-
- 	==> 	a6.txt  est classe parmis les doc **  Anatomie  **
+==> 	a3.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -67,20 +34,9 @@ a6.txt est 29.59 a 29.59%, Sport a 1.00% et Philo a 1.19% et Informatique a 1.19
 
 
 Deduction :
-a7.txt est 26.53 a 26.53%, Sport a 1.00% et Philo a 2.38% et Informatique a 2.38 et Anatomie a 26.53 
+a4.txt est simlilaire:   25.51% par rapport a Anatomie,  1.00% par rapport a  Sport et  2.38% par rapport a Philo et  2.38 par rapport a Informatique  et  25.51 par rapport a Anatomie a 
 
- 	==> 	a7.txt  est classe parmis les doc **  Anatomie  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-a8.txt est 31.63 a 31.63%, Sport a 1.00% et Philo a 3.57% et Informatique a 3.57 et Anatomie a 31.63 
-
- 	==> 	a8.txt  est classe parmis les doc **  Anatomie  **
+==> 	a4.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -89,20 +45,9 @@ a8.txt est 31.63 a 31.63%, Sport a 1.00% et Philo a 3.57% et Informatique a 3.57
 
 
 Deduction :
-a9.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+a5.txt est simlilaire:   31.63% par rapport a Anatomie,  1.00% par rapport a  Sport et  4.76% par rapport a Philo et  4.76 par rapport a Informatique  et  31.63 par rapport a Anatomie a 
 
-  	==>   	a9.txt  est classe parmis les doc **  Sport  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-a10.txt est 37.76 a 37.76%, Sport a 1.00% et Philo a 1.19% et Informatique a 1.19 et Anatomie a 37.76 
-
- 	==> 	a10.txt  est classe parmis les doc **  Anatomie  **
+==> 	a5.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -111,20 +56,9 @@ a10.txt est 37.76 a 37.76%, Sport a 1.00% et Philo a 1.19% et Informatique a 1.1
 
 
 Deduction :
-b1.txt est 1.02 a 1.02%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 1.02 
+a6.txt est simlilaire:   29.59% par rapport a Anatomie,  1.00% par rapport a  Sport et  1.19% par rapport a Philo et  1.19 par rapport a Informatique  et  29.59 par rapport a Anatomie a 
 
- 	==> 	b1.txt  est classe parmis les doc **  Anatomie  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-b2.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
-
-  	==>   	b2.txt  est classe parmis les doc **  Sport  **
+==> 	a6.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -133,20 +67,9 @@ b2.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-b3.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+a7.txt est simlilaire:   26.53% par rapport a Anatomie,  1.00% par rapport a  Sport et  2.38% par rapport a Philo et  2.38 par rapport a Informatique  et  26.53 par rapport a Anatomie a 
 
-  	==>   	b3.txt  est classe parmis les doc **  Sport  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-b4.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
-
-  	==>   	b4.txt  est classe parmis les doc **  Sport  **
+==> 	a7.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -155,20 +78,9 @@ b4.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-b6.txt est 1.02 a 1.02%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 1.02 
+a8.txt est simlilaire:   31.63% par rapport a Anatomie,  1.00% par rapport a  Sport et  3.57% par rapport a Philo et  3.57 par rapport a Informatique  et  31.63 par rapport a Anatomie a 
 
- 	==> 	b6.txt  est classe parmis les doc **  Anatomie  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-b7.txt est 1.02 a 1.02%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 1.02 
-
- 	==> 	b7.txt  est classe parmis les doc **  Anatomie  **
+==> 	a8.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -177,20 +89,9 @@ b7.txt est 1.02 a 1.02%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-b8.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+a9.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
 
-  	==>   	b8.txt  est classe parmis les doc **  Sport  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-i1.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
-
-  	==>   	i1.txt  est classe parmis les doc **  Sport  **
+==>   	a9.txt  est classe parmis les doc **  Sport  **
 
 
 ===========================================================================
@@ -199,20 +100,9 @@ i1.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-i2.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+a10.txt est simlilaire:   37.76% par rapport a Anatomie,  1.00% par rapport a  Sport et  1.19% par rapport a Philo et  1.19 par rapport a Informatique  et  37.76 par rapport a Anatomie a 
 
-  	==>   	i2.txt  est classe parmis les doc **  Sport  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-i3.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
-
-  	==>   	i3.txt  est classe parmis les doc **  Sport  **
+==> 	a10.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -221,20 +111,9 @@ i3.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-i4.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+b1.txt est simlilaire:   1.02% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  1.02 par rapport a Anatomie a 
 
-  	==>   	i4.txt  est classe parmis les doc **  Sport  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-i5.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
-
-  	==>   	i5.txt  est classe parmis les doc **  Sport  **
+==> 	b1.txt  est classe parmis les doc **  Anatomie  **
 
 
 ===========================================================================
@@ -243,20 +122,9 @@ i5.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-i6.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+b2.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
 
-  	==>   	i6.txt  est classe parmis les doc **  Sport  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-i7.txt est 3.06 a 3.06%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 3.06 
-
- 	==> 	i7.txt  est classe parmis les doc **  Anatomie  **
+==>   	b2.txt  est classe parmis les doc **  Sport  **
 
 
 ===========================================================================
@@ -265,20 +133,9 @@ i7.txt est 3.06 a 3.06%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-i8.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+b3.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
 
-  	==>   	i8.txt  est classe parmis les doc **  Sport  **
-
-
-===========================================================================
-
-===========================================================================
-
-
-Deduction :
-i9.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
-
-  	==>   	i9.txt  est classe parmis les doc **  Sport  **
+==>   	b3.txt  est classe parmis les doc **  Sport  **
 
 
 ===========================================================================
@@ -287,9 +144,9 @@ i9.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 e
 
 
 Deduction :
-i10.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+b4.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
 
-  	==>   	i10.txt  est classe parmis les doc **  Sport  **
+==>   	b4.txt  est classe parmis les doc **  Sport  **
 
 
 ===========================================================================
@@ -298,9 +155,152 @@ i10.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 
 
 
 Deduction :
-s9.txt est 0.00 a 0.00%, Sport a 1.00% et Philo a 0.00% et Informatique a 0.00 et Anatomie a 0.00 
+b6.txt est simlilaire:   1.02% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  1.02 par rapport a Anatomie a 
 
-  	==>   	s9.txt  est classe parmis les doc **  Sport  **
+==> 	b6.txt  est classe parmis les doc **  Anatomie  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+b7.txt est simlilaire:   1.02% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  1.02 par rapport a Anatomie a 
+
+==> 	b7.txt  est classe parmis les doc **  Anatomie  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+b8.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	b8.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i1.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i1.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i2.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i2.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i3.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i3.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i4.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i4.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i5.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i5.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i6.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i6.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i7.txt est simlilaire:   3.06% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  3.06 par rapport a Anatomie a 
+
+==> 	i7.txt  est classe parmis les doc **  Anatomie  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i8.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i8.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i9.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i9.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+i10.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	i10.txt  est classe parmis les doc **  Sport  **
+
+
+===========================================================================
+
+===========================================================================
+
+
+Deduction :
+s9.txt est simlilaire:   0.00% par rapport a Anatomie,  1.00% par rapport a  Sport et  0.00% par rapport a Philo et  0.00 par rapport a Informatique  et  0.00 par rapport a Anatomie a 
+
+==>   	s9.txt  est classe parmis les doc **  Sport  **
 
 
 ===========================================================================
