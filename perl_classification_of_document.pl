@@ -302,7 +302,7 @@ foreach my $Document (@Docs) {
 	$Informatique = sprintf( "%0.2f", $Informatique );
 	$Botanique    = sprintf( "%0.2f", $Botanique );
 
-#print $fh_Deduc  "\n\nDéduction :\n$Document est Sport à $Sport%, Anthropologique à $Anatomie% et Philo à $Philo%\n\n";
+#print $fh_Deduc  "\n\nDÃ©duction :\n$Document est Sport Ã  $Sport%, Anthropologique Ã  $Anatomie% et Philo Ã  $Philo%\n\n";
 
 #print $fh_Deduc  "\n\nDeduction :\n$Document est Sport a $Anatomie%, Anthropologique a $Sport% et Philo a $Philo%\n\n";
 	if (    $Anatomie > $Sport
@@ -327,7 +327,7 @@ foreach my $Document (@Docs) {
 		and $Sport > $Botanique )
 	{
 		print $fh_Deduc
-"\n\nDeduction :\n$Document est $Anatomie a $Anatomie%, Sport a $Sport% et Philo a $Philo% et Informatique a $Informatique et Anatomie a $Anatomie \n\n  \t==>   \t$Document  est classe parmis les doc **  Sport  **\n\n";
+"\n\nDeduction :\n$Document est simlilaire:   $Anatomie% par rapport a Anatomie,  $Sport% par rapport a  Sport et  $Philo% par rapport a Philo et  $Informatique par rapport a Informatique  et  $Anatomie par rapport a Anatomie a \n\n==>   \t$Document  est classe parmis les doc **  Sport  **\n\n";
 
 		#print $fh_Deduc  " $Document  est classe parmis les doc **  Sport  **";
 		print $fh_Deduc
@@ -340,7 +340,7 @@ foreach my $Document (@Docs) {
 		and $Philo > $Botanique )
 	{
 		print $fh_Deduc
-"\n\nDeduction :\n$Document est $Anatomie a $Anatomie%, Sport a $Sport% et Philo a $Philo% et Informatique a $Informatique et Anatomie a $Anatomie \n\n \t ==> \t$Document  est classe parmis les doc **  Philo  **\n\n";
+"\n\nDeduction :\n$Document est simlilaire:   $Anatomie% par rapport a Anatomie,  $Sport% par rapport a  Sport et  $Philo% par rapport a Philo et  $Informatique par rapport a Informatique  et  $Anatomie par rapport a Anatomie a \n\n ==> \t$Document  est classe parmis les doc **  Philo  **\n\n";
 
 		#print $fh_Deduc  " $Document  est classe parmis les doc **  Philo  **";
 		print $fh_Deduc
@@ -354,7 +354,7 @@ foreach my $Document (@Docs) {
 		and $Informatique > $Botanique )
 	{
 		print $fh_Deduc
-"\n\nDeduction :\n$Document est $Anatomie a $Anatomie%, Sport a $Sport% et Philo a $Philo% et Informatique a $Informatique et Anatomie a $Anatomie \n\n \t ==> \t$Document  est classe parmis les doc **  Informatique  **\n\n";
+"\n\nDeduction :\n$Document est simlilaire:   $Anatomie% par rapport a Anatomie,  $Sport% par rapport a  Sport et  $Philo% par rapport a Philo et  $Informatique par rapport a Informatique  et  $Anatomie par rapport a Anatomie a \n\n \t ==> \t$Document  est classe parmis les doc **  Informatique  **\n\n";
 
 		#print $fh_Deduc  " $Document  est classe parmis les doc **  Philo  **";
 		print $fh_Deduc
@@ -367,7 +367,7 @@ foreach my $Document (@Docs) {
 		and $Philo > $Botanique )
 	{
 		print $fh_Deduc
-"\n\nDeduction :\n$Document est $Anatomie a $Anatomie%, Sport a $Sport% et Philo a $Philo% et Informatique a $Informatique et Anatomie a $Anatomie \n\n \t ==> \t$Document  est classe parmis les doc **  $Botanique  **\n\n";
+"\n\nDeduction :\n$Document est simlilaire:   $Anatomie% par rapport a Anatomie,  $Sport% par rapport a  Sport et  $Philo% par rapport a Philo et  $Informatique par rapport a Informatique  et  $Anatomie par rapport a Anatomie a \n\n \t==> \t$Document  est classe parmis les doc **  $Botanique  **\n\n";
 
 		#print $fh_Deduc  " $Document  est classe parmis les doc **  Philo  **";
 		print $fh_Deduc
@@ -377,7 +377,7 @@ foreach my $Document (@Docs) {
 	}
 	if ( $Anatomie eq $Philo && $Sport eq $Philo ) {
 		print $fh_Deduc
-"\n\nDeduction :\n$Document est $Anatomie a $Anatomie%, Sport a $Sport% et Philo a $Philo% et Informatique a $Informatique et Anatomie a $Anatomie \n\n \t ==>\t le doc -$Document- est   non classe \n\n  ";
+"\n\nDeduction :\n$Document est simlilaire:   $Anatomie% par rapport a Anatomie,  $Sport% par rapport a  Sport et  $Philo% par rapport a Philo et  $Informatique par rapport a Informatique  et  $Anatomie par rapport a Anatomie a \n\n ==>\t le doc -$Document- est   non classe \n\n  ";
 		print $fh_Deduc
 "\n===========================================================================\n";
 		print $fh_Deduc
@@ -413,7 +413,7 @@ sub compare_with_dic_Sport {
 	if ( $NbSport != 0 ) {
 		my $pourcentage_appr = ( $count * 100 ) / $NbSport;
 		print $fh_Resul
-"\nLe nombre de mots du fichier $Document présents dans le dic_Sport  est $count  ===>
+"\nLe nombre de mots du fichier $Document prÃ©sents dans le dic_Sport  est $count  ===>
 	\tle pourcentage par raport au dic_Sport = $pourcentage_appr %";
 	}
 	else {
@@ -440,7 +440,7 @@ sub compare_with_dic_Anatomie {
 	print $fh_Resul "Les mots @words \nsont presents dans dic_Anatomie .\n";
 	my $pourcentage_appr = ( $count * 100 ) / $NbAnatomie;
 	print $fh_Resul
-"\nLe nombre de mots du fichier $Document présents dans le dic_Anatomie  est $count  ===> 
+"\nLe nombre de mots du fichier $Document prÃ©sents dans le dic_Anatomie  est $count  ===> 
 	\tle pourcentage par raport au dic_Anatomie = $pourcentage_appr %";
 	return $pourcentage_appr;
 }
@@ -465,7 +465,7 @@ sub compare_with_dic_Philo {
 	print $fh_Resul "Les mots @words \nsont presents dans dic_Philo   .\n";
 	my $pourcentage_appr = ( $count * 100 ) / $NbPhilo;
 	print $fh_Resul
-"\nLe nombre de mots du fichier $Document présents dans le dic_Philo  est $count  ===> 
+"\nLe nombre de mots du fichier $Document prÃ©sents dans le dic_Philo  est $count  ===> 
 	\tle pourcentage par raport au dic_Philo = $pourcentage_appr %";
 	return $pourcentage_appr;
 }
@@ -492,7 +492,7 @@ sub compare_with_dic_Informatique {
 	  "Les mots @words sont presents  dans dic_Informatique   .\n";
 	my $pourcentage_appr = ( $count * 100 ) / $NbInformatique;
 	print $fh_Resul
-"\nLe nombre de mots du fichier $Document présents dans le dic_Informatique  est $count  ===> 
+"\nLe nombre de mots du fichier $Document prÃ©sents dans le dic_Informatique  est $count  ===> 
 	\tle pourcentage par raport au dic_Informatique = $pourcentage_appr %";
 
 }
@@ -515,7 +515,7 @@ sub compare_with_dic_Botanique {
 	print $fh_Resul "Les mots @words \nsont presents dans dic_Botanique  .\n";
 	my $pourcentage_appr = ( $count * 100 ) / $NbBotanique;
 	print $fh_Resul
-"\nLe nombre de mots du fichier $Document présents dans le dic_Botanique  est $count  ===> 
+"\nLe nombre de mots du fichier $Document prÃ©sents dans le dic_Botanique  est $count  ===> 
 	\tle pourcentage par raport au dic_Philo = $pourcentage_appr %";
 	return $pourcentage_appr;
 }
@@ -550,8 +550,8 @@ sub ActiverAccents {
 }
 
 #Sinon :
-#� 	\x81 	� 	\x85 	� 	\x8A
-#� 	\x82 	� 	\x87 	� 	\x8B
-#� 	\x83 	� 	\x88 	� 	\x8C
-#� 	\x84 	� 	\x89
+#ü 	\x81 	à 	\x85 	è 	\x8A
+#é 	\x82 	ç 	\x87 	ï 	\x8B
+#â 	\x83 	ê 	\x88 	î 	\x8C
+#ä 	\x84 	ë 	\x89
 
